@@ -1,0 +1,4495 @@
+{
+  "ads": [
+    {
+      "account_id": "Omeq2tVE-yDSSQeGWgsj3Ms",
+      "account_parameters": [
+        {
+          "pl": "Имя",
+          "vl": "",
+          "p": "name",
+          "v": "Alex",
+          "pu": "nme"
+        }
+      ],
+      "ad_id": 1058676492,
+      "ad_link": "https://www.kufar.by/item/1058676492",
+      "ad_parameters": [
+        {
+          "pl": "Подкатегория",
+          "vl": "Ноутбуки",
+          "p": "category",
+          "v": 16040,
+          "pu": "cat"
+        },
+        {
+          "pl": "Регион",
+          "vl": "Гомельская область",
+          "p": "region",
+          "v": 2,
+          "pu": "rgn"
+        },
+        {
+          "pl": "Город / Район",
+          "vl": "Гомель",
+          "p": "area",
+          "v": "5",
+          "pu": "ar"
+        },
+        {
+          "pl": "Тип оплаты",
+          "vl": "Цена",
+          "p": "remuneration_type",
+          "v": "1",
+          "pu": "rtr"
+        },
+        {
+          "pl": "Игровой ноутбук",
+          "vl": "-",
+          "p": "computer_equipment_laptops_gaming",
+          "v": false,
+          "pu": "celg"
+        },
+        {
+          "pl": "Диагональ экрана",
+          "vl": "15.6'' / 39.6 см",
+          "p": "computers_laptop_diagonal",
+          "v": "23",
+          "pu": "cld"
+        },
+        {
+          "pl": "Операционная система",
+          "vl": "Windows 11",
+          "p": "computers_laptop_os",
+          "v": "12",
+          "pu": "clos"
+        },
+        {
+          "pl": "Тип видеокарты",
+          "vl": "Встроенная",
+          "p": "computers_laptop_videocard",
+          "v": "1",
+          "pu": "clv"
+        },
+        {
+          "pl": "Тип накопителя",
+          "vl": "SSD",
+          "p": "computers_laptop_hdd_type",
+          "v": "13",
+          "pu": "clht"
+        },
+        {
+          "pl": "Состояние",
+          "vl": "Б/у",
+          "p": "condition",
+          "v": "1",
+          "pu": "cnd"
+        }
+      ],
+      "body": null,
+      "body_short": null,
+      "category": "16040",
+      "company_ad": false,
+      "currency": "BYR",
+      "feedback_info": null,
+      "images": [
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/750bde16-c2f0-4bec-9745-f2af905aa926.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/f822b2c6-8f6f-432a-9f89-b079f9100836.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/5b9fb323-6e5e-4835-a1cb-e51cdfb41bb9.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/d9c61d10-9114-4969-865e-1cf39b922430.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/6fa64746-080a-4768-83ca-47f19a5078b7.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/167e4800-beab-4aa0-908f-c2996ba730ee.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/00701b02-5fbd-49a2-9fea-e2d6ee329019.jpg",
+          "yams_storage": false
+        }
+      ],
+      "is_mine": false,
+      "list_id": 1058676492,
+      "list_time": "2026-04-25T13:04:18Z",
+      "message_id": "adid1058676492",
+      "paid_services": {
+        "halva": true,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "phone_hidden": false,
+      "price_byn": "65000",
+      "price_usd": "23061",
+      "remuneration_type": "1",
+      "show_parameters": {
+        "show_call": false,
+        "show_chat": false,
+        "show_import_link": false,
+        "show_web_shop_link": false
+      },
+      "subject": "Ноутбук Asus Fullhd/i3/ssd/920mx",
+      "type": "sell"
+    },
+    {
+      "account_id": "OqCY45E04DQQILeiQysu1LA",
+      "account_parameters": [
+        {
+          "pl": "Имя",
+          "vl": "",
+          "p": "name",
+          "v": "Николай ",
+          "pu": "nme"
+        }
+      ],
+      "ad_id": 1065280770,
+      "ad_link": "https://www.kufar.by/item/1065280770",
+      "ad_parameters": [
+        {
+          "pl": "Подкатегория",
+          "vl": "Ноутбуки",
+          "p": "category",
+          "v": 16040,
+          "pu": "cat"
+        },
+        {
+          "pl": "Регион",
+          "vl": "Минск",
+          "p": "region",
+          "v": 7,
+          "pu": "rgn"
+        },
+        {
+          "pl": "Город / Район",
+          "vl": "Заводской",
+          "p": "area",
+          "v": "26",
+          "pu": "ar"
+        },
+        {
+          "pl": "Тип оплаты",
+          "vl": "Цена",
+          "p": "remuneration_type",
+          "v": "1",
+          "pu": "rtr"
+        },
+        {
+          "pl": "Матрица экрана",
+          "vl": "OLED",
+          "p": "computers_display_matrix_type",
+          "v": "45",
+          "pu": "cdmt"
+        },
+        {
+          "pl": "Производитель",
+          "vl": "ASUS",
+          "p": "computers_laptop_brand",
+          "v": "1",
+          "pu": "clb"
+        },
+        {
+          "pl": "Диагональ экрана",
+          "vl": "13.3'' / 33.8 см",
+          "p": "computers_laptop_diagonal",
+          "v": "11",
+          "pu": "cld"
+        },
+        {
+          "pl": "Разрешение экрана",
+          "vl": "2880 х 1800",
+          "p": "computers_laptop_resolution",
+          "v": "14",
+          "pu": "clr"
+        },
+        {
+          "pl": "Операционная система",
+          "vl": "Windows 11",
+          "p": "computers_laptop_os",
+          "v": "12",
+          "pu": "clos"
+        },
+        {
+          "pl": "Процессор",
+          "vl": "Intel Core i7",
+          "p": "computers_laptop_processor",
+          "v": "1",
+          "pu": "clp"
+        },
+        {
+          "pl": "Оперативная память",
+          "vl": "32 Гб",
+          "p": "computer_equipment_laptops_ram",
+          "v": "50",
+          "pu": "celr"
+        },
+        {
+          "pl": "Тип оперативной памяти",
+          "vl": "LPDDR5",
+          "p": "computers_ram_type",
+          "v": "60",
+          "pu": "cmprt"
+        },
+        {
+          "pl": "Тип видеокарты",
+          "vl": "Встроенная",
+          "p": "computers_laptop_videocard",
+          "v": "1",
+          "pu": "clv"
+        },
+        {
+          "pl": "Тип накопителя",
+          "vl": "Прочее",
+          "p": "computers_laptop_hdd_type",
+          "v": "45",
+          "pu": "clht"
+        },
+        {
+          "pl": "Ёмкость накопителя",
+          "vl": "1000 Гб",
+          "p": "computers_laptop_hdd_volume",
+          "v": "37",
+          "pu": "clhv"
+        },
+        {
+          "pl": "Время автономной работы",
+          "vl": "10 и более часов",
+          "p": "computers_laptop_battery_life",
+          "v": "25",
+          "pu": "clbl"
+        },
+        {
+          "pl": "Состояние",
+          "vl": "Б/у",
+          "p": "condition",
+          "v": "1",
+          "pu": "cnd"
+        }
+      ],
+      "body": null,
+      "body_short": null,
+      "category": "16040",
+      "company_ad": false,
+      "currency": "BYR",
+      "feedback_info": null,
+      "images": [
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/f77d7540-0671-44a1-b3ea-5fe4f4b9a7a1.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/75ba6c11-6054-49b8-b4fc-0bae804a72cc.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/02400490-744a-4f8a-acd6-af5232543ba3.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/c7f5d8c6-7eb1-4178-896c-af1855080b99.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/a135cf86-dcbb-4a8f-b8c9-2b52dd011ff1.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/57de5a83-7292-43a6-a33b-2f69d8ec410a.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/854b7ff4-3f3f-463d-9731-1cc41934776b.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/8e30e0b3-1c02-486e-afb0-3eb738df8cba.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/45a37a62-df34-413c-bf8d-20e651cefc3f.jpg",
+          "yams_storage": false
+        }
+      ],
+      "is_mine": false,
+      "list_id": 1065280770,
+      "list_time": "2026-04-25T13:04:05Z",
+      "message_id": "adid1065280770",
+      "paid_services": {
+        "halva": false,
+        "highlight": true,
+        "polepos": false,
+        "ribbons": null
+      },
+      "phone_hidden": false,
+      "price_byn": "380000",
+      "price_usd": "134819",
+      "remuneration_type": "1",
+      "show_parameters": {
+        "show_call": false,
+        "show_chat": false,
+        "show_import_link": false,
+        "show_web_shop_link": false
+      },
+      "subject": "Asus Zenbook S13 Oled",
+      "type": "sell"
+    },
+    {
+      "account_id": "OvBNzSGOHKOxajkpRmqLaH0",
+      "account_parameters": [
+        {
+          "pl": "Имя",
+          "vl": "",
+          "p": "name",
+          "v": "Яўгеній ",
+          "pu": "nme"
+        }
+      ],
+      "ad_id": 1064652953,
+      "ad_link": "https://www.kufar.by/item/1064652953",
+      "ad_parameters": [
+        {
+          "pl": "Подкатегория",
+          "vl": "Ноутбуки",
+          "p": "category",
+          "v": 16040,
+          "pu": "cat"
+        },
+        {
+          "pl": "Регион",
+          "vl": "Минск",
+          "p": "region",
+          "v": 7,
+          "pu": "rgn"
+        },
+        {
+          "pl": "Город / Район",
+          "vl": "Октябрьский",
+          "p": "area",
+          "v": "28",
+          "pu": "ar"
+        },
+        {
+          "pl": "Тип оплаты",
+          "vl": "Цена",
+          "p": "remuneration_type",
+          "v": "1",
+          "pu": "rtr"
+        },
+        {
+          "pl": "Матрица экрана",
+          "vl": "IPS",
+          "p": "computers_display_matrix_type",
+          "v": "21",
+          "pu": "cdmt"
+        },
+        {
+          "pl": "Игровой ноутбук",
+          "vl": "Да",
+          "p": "computer_equipment_laptops_gaming",
+          "v": true,
+          "pu": "celg"
+        },
+        {
+          "pl": "Производитель",
+          "vl": "Lenovo",
+          "p": "computers_laptop_brand",
+          "v": "16",
+          "pu": "clb"
+        },
+        {
+          "pl": "Диагональ экрана",
+          "vl": "15.6'' / 39.6 см",
+          "p": "computers_laptop_diagonal",
+          "v": "23",
+          "pu": "cld"
+        },
+        {
+          "pl": "Разрешение экрана",
+          "vl": "1920 х 1080",
+          "p": "computers_laptop_resolution",
+          "v": "8",
+          "pu": "clr"
+        },
+        {
+          "pl": "Операционная система",
+          "vl": "Windows 11",
+          "p": "computers_laptop_os",
+          "v": "12",
+          "pu": "clos"
+        },
+        {
+          "pl": "Процессор",
+          "vl": "Intel Core i5",
+          "p": "computers_laptop_processor",
+          "v": "3",
+          "pu": "clp"
+        },
+        {
+          "pl": "Оперативная память",
+          "vl": "8 Гб",
+          "p": "computer_equipment_laptops_ram",
+          "v": "25",
+          "pu": "celr"
+        },
+        {
+          "pl": "Тип оперативной памяти",
+          "vl": "DDR4",
+          "p": "computers_ram_type",
+          "v": "10",
+          "pu": "cmprt"
+        },
+        {
+          "pl": "Тип видеокарты",
+          "vl": "Встроенная и дискретная",
+          "p": "computers_laptop_videocard",
+          "v": "5",
+          "pu": "clv"
+        },
+        {
+          "pl": "Видеокарта",
+          "vl": "NVIDIA GeForce GTX 1650 4 ГБ",
+          "p": "computers_laptop_videocard_brand",
+          "v": "295",
+          "pu": "clvb"
+        },
+        {
+          "pl": "Тип накопителя",
+          "vl": "SSD",
+          "p": "computers_laptop_hdd_type",
+          "v": "13",
+          "pu": "clht"
+        },
+        {
+          "pl": "Ёмкость накопителя",
+          "vl": "512 Гб",
+          "p": "computers_laptop_hdd_volume",
+          "v": "27",
+          "pu": "clhv"
+        },
+        {
+          "pl": "Состояние",
+          "vl": "Б/у",
+          "p": "condition",
+          "v": "1",
+          "pu": "cnd"
+        },
+        {
+          "pl": "Товары с Куфар Доставкой",
+          "vl": "Да",
+          "p": "delivery_enabled",
+          "v": true,
+          "pu": "dle"
+        },
+        {
+          "pl": "Возможен обмен",
+          "vl": "Да",
+          "p": "possible_exchange",
+          "v": true,
+          "pu": "pse"
+        }
+      ],
+      "body": null,
+      "body_short": null,
+      "category": "16040",
+      "company_ad": false,
+      "currency": "BYR",
+      "feedback_info": null,
+      "images": [
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/82c28541-c020-4e01-836d-86763b0a97e2.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/c2526a2e-1f26-4087-8cc8-ba7bfac32a07.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/f3baa44b-f562-44b9-956d-d8d5164ebe1c.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/0f78dbfe-170a-454f-85af-37b2262d2c88.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/c07dc869-1018-4855-a372-63e57321b9cc.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/568664f3-5bdc-4f1d-a486-4b75e829fbf9.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/8f792d56-3536-4acc-8d42-463fd5439e37.jpg",
+          "yams_storage": false
+        }
+      ],
+      "is_mine": false,
+      "list_id": 1064652953,
+      "list_time": "2026-04-25T13:02:34Z",
+      "message_id": "adid1064652953",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "phone_hidden": true,
+      "price_byn": "110000",
+      "price_usd": "39026",
+      "remuneration_type": "1",
+      "show_parameters": {
+        "show_call": false,
+        "show_chat": false,
+        "show_import_link": false,
+        "show_web_shop_link": false
+      },
+      "subject": "Игровой ноутбук Lenovo IdeaPad",
+      "type": "sell"
+    },
+    {
+      "account_id": "Og2rt2XcjFVYxU8-N5R_ANc",
+      "account_parameters": [
+        {
+          "pl": "Дата",
+          "vl": "",
+          "p": "commercial_register_date",
+          "v": "23.11.18",
+          "pu": "crde"
+        },
+        {
+          "pl": "Адрес торговой точки",
+          "vl": "",
+          "p": "shop_address",
+          "v": "улица Короля, 88, Минск",
+          "pu": "sa"
+        },
+        {
+          "pl": "УНП",
+          "vl": "",
+          "p": "vat_number",
+          "v": "692101228",
+          "pu": "vn"
+        },
+        {
+          "pl": "Номер",
+          "vl": "",
+          "p": "commercial_register_number",
+          "v": "433470",
+          "pu": "crn"
+        },
+        {
+          "pl": "Имя",
+          "vl": "",
+          "p": "name",
+          "v": "ИП Турзенок С.А.",
+          "pu": "nme"
+        },
+        {
+          "pl": "Юридический адрес/Адрес регистрации",
+          "vl": "",
+          "p": "company_address",
+          "v": "г. Минск ул Короля д88",
+          "pu": "ca"
+        },
+        {
+          "pl": "Ссылка на интернет-магазин",
+          "vl": "",
+          "p": "web_shop_link",
+          "v": "https://notebook-minsk.by",
+          "pu": "wsl"
+        },
+        {
+          "pl": "Контактное лицо",
+          "vl": "",
+          "p": "contact_person",
+          "v": "Сергей ",
+          "pu": "cp"
+        }
+      ],
+      "ad_id": 1044199086,
+      "ad_link": "https://www.kufar.by/item/1044199086",
+      "ad_parameters": [
+        {
+          "pl": "Подкатегория",
+          "vl": "Ноутбуки",
+          "p": "category",
+          "v": 16040,
+          "pu": "cat"
+        },
+        {
+          "pl": "Товары с доставкой в регионы",
+          "vl": "Да",
+          "p": "multiregion_enabled",
+          "v": true,
+          "pu": "mle"
+        },
+        {
+          "pl": "Товары с доставкой в регионы",
+          "vl": [
+            "Вся Беларусь",
+            "Брестская",
+            "Гомельская",
+            "Гродненская",
+            "Могилевская",
+            "Минская",
+            "Витебская",
+            "Минск"
+          ],
+          "p": "multiregion_regions",
+          "v": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "pu": "mlr"
+        },
+        {
+          "pl": "Регион",
+          "vl": "Минск",
+          "p": "region",
+          "v": 7,
+          "pu": "rgn"
+        },
+        {
+          "pl": "Город / Район",
+          "vl": "Московский",
+          "p": "area",
+          "v": "29",
+          "pu": "ar"
+        },
+        {
+          "pl": "Тип оплаты",
+          "vl": "Цена",
+          "p": "remuneration_type",
+          "v": "1",
+          "pu": "rtr"
+        },
+        {
+          "pl": "Матрица экрана",
+          "vl": "IPS",
+          "p": "computers_display_matrix_type",
+          "v": "21",
+          "pu": "cdmt"
+        },
+        {
+          "pl": "Игровой ноутбук",
+          "vl": "Да",
+          "p": "computer_equipment_laptops_gaming",
+          "v": true,
+          "pu": "celg"
+        },
+        {
+          "pl": "Производитель",
+          "vl": "Lenovo",
+          "p": "computers_laptop_brand",
+          "v": "16",
+          "pu": "clb"
+        },
+        {
+          "pl": "Диагональ экрана",
+          "vl": "17.3'' / 43.9 см",
+          "p": "computers_laptop_diagonal",
+          "v": "27",
+          "pu": "cld"
+        },
+        {
+          "pl": "Разрешение экрана",
+          "vl": "1920 х 1080",
+          "p": "computers_laptop_resolution",
+          "v": "8",
+          "pu": "clr"
+        },
+        {
+          "pl": "Операционная система",
+          "vl": "Windows 10",
+          "p": "computers_laptop_os",
+          "v": "10",
+          "pu": "clos"
+        },
+        {
+          "pl": "Процессор",
+          "vl": "Intel Core i7",
+          "p": "computers_laptop_processor",
+          "v": "1",
+          "pu": "clp"
+        },
+        {
+          "pl": "Оперативная память",
+          "vl": "16 Гб",
+          "p": "computer_equipment_laptops_ram",
+          "v": "40",
+          "pu": "celr"
+        },
+        {
+          "pl": "Тип оперативной памяти",
+          "vl": "DDR4",
+          "p": "computers_ram_type",
+          "v": "10",
+          "pu": "cmprt"
+        },
+        {
+          "pl": "Тип видеокарты",
+          "vl": "Встроенная и дискретная",
+          "p": "computers_laptop_videocard",
+          "v": "5",
+          "pu": "clv"
+        },
+        {
+          "pl": "Видеокарта",
+          "vl": "NVIDIA GeForce GTX 1650 4 ГБ",
+          "p": "computers_laptop_videocard_brand",
+          "v": "295",
+          "pu": "clvb"
+        },
+        {
+          "pl": "Тип накопителя",
+          "vl": "SSD",
+          "p": "computers_laptop_hdd_type",
+          "v": "13",
+          "pu": "clht"
+        },
+        {
+          "pl": "Ёмкость накопителя",
+          "vl": "1000 Гб",
+          "p": "computers_laptop_hdd_volume",
+          "v": "37",
+          "pu": "clhv"
+        },
+        {
+          "pl": "Время автономной работы",
+          "vl": "2-4 часа",
+          "p": "computers_laptop_battery_life",
+          "v": "10",
+          "pu": "clbl"
+        },
+        {
+          "pl": "Состояние",
+          "vl": "Б/у",
+          "p": "condition",
+          "v": "1",
+          "pu": "cnd"
+        },
+        {
+          "pl": "Гарантийный срок",
+          "vl": "",
+          "p": "shop_guarantee",
+          "v": "45 дней",
+          "pu": "sg"
+        },
+        {
+          "pl": "Товары с Куфар Доставкой",
+          "vl": "-",
+          "p": "delivery_enabled",
+          "v": false,
+          "pu": "dle"
+        },
+        {
+          "pl": "Товары с Куфар Оплатой",
+          "vl": "-",
+          "p": "safedeal_enabled",
+          "v": false,
+          "pu": "sde"
+        }
+      ],
+      "body": null,
+      "body_short": null,
+      "category": "16040",
+      "company_ad": true,
+      "currency": "BYR",
+      "feedback_info": null,
+      "images": [
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/b96c0be8-cdf5-41df-810d-26a7ee5e4776.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/e176b034-3cae-4576-9d97-515cfc38d54d.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/4ade823e-b823-4b94-82ac-edbe60fcf005.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/0aa05943-0bbc-4cf0-916a-0c27a58d4a4c.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/7072353e-4c92-4cf7-b2c3-16d7198f2b38.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/3c1834d1-84de-4f61-9ac1-ea39d2cebe06.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/9ca24749-a8ef-4b1e-944d-17ab0a338934.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/04775d66-5116-4a82-8dbd-0254116a3acc.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/7a9836a6-bbbe-4cc5-b6cd-edd961613206.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/5e570181-b66b-4d52-a0a6-139bdcf9b6f9.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/885c8457-7a05-440b-a2e5-b334307cd89f.jpg",
+          "yams_storage": false
+        }
+      ],
+      "is_mine": false,
+      "list_id": 1044199086,
+      "list_time": "2026-04-25T13:00:10Z",
+      "message_id": "adid1044199086",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "phone_hidden": false,
+      "price_byn": "188000",
+      "price_usd": "66700",
+      "remuneration_type": "1",
+      "show_parameters": {
+        "show_call": false,
+        "show_chat": false,
+        "show_import_link": false,
+        "show_web_shop_link": false
+      },
+      "subject": "Игровой ноутбук Lenovo Legion Y540 (17.3''/CORE I7/16GB/GTX 1650/144Гц)",
+      "type": "sell"
+    },
+    {
+      "account_id": "OityV_ZUkUlKeZkrOR0uzVQ",
+      "account_parameters": [
+        {
+          "pl": "Ссылка на интернет-магазин",
+          "vl": "",
+          "p": "web_shop_link",
+          "v": "https://www.instagram.com/it_mix.by?igsh=aWR2bDdnNThrcnB5",
+          "pu": "wsl"
+        },
+        {
+          "pl": "Юридический адрес/Адрес регистрации",
+          "vl": "",
+          "p": "company_address",
+          "v": "Советская, 126, пав. 21",
+          "pu": "ca"
+        },
+        {
+          "pl": "Адрес торговой точки",
+          "vl": "",
+          "p": "shop_address",
+          "v": "Советская улица, 126, Брест, 21",
+          "pu": "sa"
+        },
+        {
+          "pl": "Имя",
+          "vl": "",
+          "p": "name",
+          "v": "iTMiX Service ",
+          "pu": "nme"
+        },
+        {
+          "pl": "УНП",
+          "vl": "",
+          "p": "vat_number",
+          "v": "291856691",
+          "pu": "vn"
+        },
+        {
+          "pl": "Контактное лицо",
+          "vl": "",
+          "p": "contact_person",
+          "v": "iTMiX Service",
+          "pu": "cp"
+        }
+      ],
+      "ad_id": 1066327331,
+      "ad_link": "https://www.kufar.by/item/1066327331",
+      "ad_parameters": [
+        {
+          "pl": "Компания",
+          "vl": "",
+          "p": "trademark",
+          "v": "iTMiX Service",
+          "pu": "trd"
+        },
+        {
+          "pl": "Подкатегория",
+          "vl": "Ноутбуки",
+          "p": "category",
+          "v": 16040,
+          "pu": "cat"
+        },
+        {
+          "pl": "Ключевые слова",
+          "vl": "",
+          "p": "users_synonyms",
+          "v": "Ноутбук",
+          "pu": "usn"
+        },
+        {
+          "pl": "Регион",
+          "vl": "Брестская область",
+          "p": "region",
+          "v": 1,
+          "pu": "rgn"
+        },
+        {
+          "pl": "Город / Район",
+          "vl": "Брест",
+          "p": "area",
+          "v": "1",
+          "pu": "ar"
+        },
+        {
+          "pl": "Тип оплаты",
+          "vl": "Цена",
+          "p": "remuneration_type",
+          "v": "1",
+          "pu": "rtr"
+        },
+        {
+          "pl": "Матрица экрана",
+          "vl": "TN + Film",
+          "p": "computers_display_matrix_type",
+          "v": "1",
+          "pu": "cdmt"
+        },
+        {
+          "pl": "Производитель",
+          "vl": "HP",
+          "p": "computers_laptop_brand",
+          "v": "15",
+          "pu": "clb"
+        },
+        {
+          "pl": "Диагональ экрана",
+          "vl": "15.6'' / 39.6 см",
+          "p": "computers_laptop_diagonal",
+          "v": "23",
+          "pu": "cld"
+        },
+        {
+          "pl": "Разрешение экрана",
+          "vl": "1920 х 1080",
+          "p": "computers_laptop_resolution",
+          "v": "8",
+          "pu": "clr"
+        },
+        {
+          "pl": "Операционная система",
+          "vl": "Windows 11",
+          "p": "computers_laptop_os",
+          "v": "12",
+          "pu": "clos"
+        },
+        {
+          "pl": "Процессор",
+          "vl": "Intel Core i5",
+          "p": "computers_laptop_processor",
+          "v": "3",
+          "pu": "clp"
+        },
+        {
+          "pl": "Оперативная память",
+          "vl": "12 Гб",
+          "p": "computer_equipment_laptops_ram",
+          "v": "35",
+          "pu": "celr"
+        },
+        {
+          "pl": "Тип оперативной памяти",
+          "vl": "DDR4",
+          "p": "computers_ram_type",
+          "v": "10",
+          "pu": "cmprt"
+        },
+        {
+          "pl": "Тип видеокарты",
+          "vl": "Встроенная и дискретная",
+          "p": "computers_laptop_videocard",
+          "v": "5",
+          "pu": "clv"
+        },
+        {
+          "pl": "Видеокарта",
+          "vl": "NVIDIA GeForce MX130 4 ГБ",
+          "p": "computers_laptop_videocard_brand",
+          "v": "350",
+          "pu": "clvb"
+        },
+        {
+          "pl": "Тип накопителя",
+          "vl": "SSD",
+          "p": "computers_laptop_hdd_type",
+          "v": "13",
+          "pu": "clht"
+        },
+        {
+          "pl": "Ёмкость накопителя",
+          "vl": "128 ГБ и менее",
+          "p": "computers_laptop_hdd_volume",
+          "v": "1",
+          "pu": "clhv"
+        },
+        {
+          "pl": "Время автономной работы",
+          "vl": "1-2 часа",
+          "p": "computers_laptop_battery_life",
+          "v": "5",
+          "pu": "clbl"
+        },
+        {
+          "pl": "Состояние",
+          "vl": "Б/у",
+          "p": "condition",
+          "v": "1",
+          "pu": "cnd"
+        },
+        {
+          "pl": "Гарантийный срок",
+          "vl": "",
+          "p": "shop_guarantee",
+          "v": "4 месяца",
+          "pu": "sg"
+        },
+        {
+          "pl": "Товары с Куфар Доставкой",
+          "vl": "-",
+          "p": "delivery_enabled",
+          "v": false,
+          "pu": "dle"
+        },
+        {
+          "pl": "Товары с Куфар Оплатой",
+          "vl": "-",
+          "p": "safedeal_enabled",
+          "v": false,
+          "pu": "sde"
+        },
+        {
+          "pl": "Доставка от продавца",
+          "vl": "Да",
+          "p": "delivery_pro",
+          "v": true,
+          "pu": "dlpr"
+        },
+        {
+          "pl": "Рассрочка от продавца",
+          "vl": "Да",
+          "p": "installment_pro",
+          "v": true,
+          "pu": "inpr"
+        }
+      ],
+      "body": null,
+      "body_short": null,
+      "category": "16040",
+      "company_ad": true,
+      "currency": "BYR",
+      "feedback_info": null,
+      "images": [
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/35045413-2d95-49f2-beff-39888ede775b.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/7ab24076-cd7c-4dbb-b0ba-f5ddf11d6293.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/511ba928-9668-42a6-8da5-676ca3e81be9.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/13a1541d-42ff-459c-94a4-d2021caa07e3.jpg",
+          "yams_storage": false
+        }
+      ],
+      "is_mine": false,
+      "list_id": 1066327331,
+      "list_time": "2026-04-25T12:57:57Z",
+      "message_id": "adid1066327331",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "phone_hidden": false,
+      "price_byn": "45000",
+      "price_usd": "15965",
+      "remuneration_type": "1",
+      "show_parameters": {
+        "show_call": false,
+        "show_chat": false,
+        "show_import_link": false,
+        "show_web_shop_link": false
+      },
+      "subject": "РАССРОЧКА ОНЛАЙН. HP Lapton 15-da1009ur Черный",
+      "type": "sell"
+    },
+    {
+      "account_id": "OvbpMrJw_Hw8OH6SZL-8Kes",
+      "account_parameters": [
+        {
+          "pl": "Имя",
+          "vl": "",
+          "p": "name",
+          "v": "Наталья",
+          "pu": "nme"
+        }
+      ],
+      "ad_id": 1066326730,
+      "ad_link": "https://www.kufar.by/item/1066326730",
+      "ad_parameters": [
+        {
+          "pl": "Подкатегория",
+          "vl": "Ноутбуки",
+          "p": "category",
+          "v": 16040,
+          "pu": "cat"
+        },
+        {
+          "pl": "Регион",
+          "vl": "Гродненская область",
+          "p": "region",
+          "v": 3,
+          "pu": "rgn"
+        },
+        {
+          "pl": "Город / Район",
+          "vl": "Лида",
+          "p": "area",
+          "v": "10",
+          "pu": "ar"
+        },
+        {
+          "pl": "Тип оплаты",
+          "vl": "Цена",
+          "p": "remuneration_type",
+          "v": "1",
+          "pu": "rtr"
+        },
+        {
+          "pl": "Производитель",
+          "vl": "Apple",
+          "p": "computers_laptop_brand",
+          "v": "5",
+          "pu": "clb"
+        },
+        {
+          "pl": "Состояние",
+          "vl": "Б/у",
+          "p": "condition",
+          "v": "1",
+          "pu": "cnd"
+        },
+        {
+          "pl": "Товары с Куфар Доставкой",
+          "vl": "Да",
+          "p": "delivery_enabled",
+          "v": true,
+          "pu": "dle"
+        }
+      ],
+      "body": null,
+      "body_short": null,
+      "category": "16040",
+      "company_ad": false,
+      "currency": "BYR",
+      "feedback_info": null,
+      "images": [
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/9ab6f579-ba08-4413-8f8b-3ad3e97c0bac.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/4b394df1-112d-44c2-a31d-a13a818478cc.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/38ef8a6f-7058-427e-837d-603f8faa06b3.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/6f6d4823-20a1-4f32-a537-e0a45f2c9218.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/ada322e5-cfeb-4662-9b3c-7d08ff8d47e3.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/a45e2745-ae94-4121-abee-be2f6c646105.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/6320691a-6458-469d-a207-471558d5abba.jpg",
+          "yams_storage": false
+        }
+      ],
+      "is_mine": false,
+      "list_id": 1066326730,
+      "list_time": "2026-04-25T12:51:00Z",
+      "message_id": "adid1066326730",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "phone_hidden": true,
+      "price_byn": "32000",
+      "price_usd": "11353",
+      "remuneration_type": "1",
+      "show_parameters": {
+        "show_call": false,
+        "show_chat": false,
+        "show_import_link": false,
+        "show_web_shop_link": false
+      },
+      "subject": "MacBook Air",
+      "type": "sell"
+    },
+    {
+      "account_id": "OjkjGdaca3NX7uMhzpZtsRE",
+      "account_parameters": [
+        {
+          "pl": "Имя",
+          "vl": "",
+          "p": "name",
+          "v": "wangtongxue",
+          "pu": "nme"
+        }
+      ],
+      "ad_id": 1066095480,
+      "ad_link": "https://www.kufar.by/item/1066095480",
+      "ad_parameters": [
+        {
+          "pl": "Подкатегория",
+          "vl": "Ноутбуки",
+          "p": "category",
+          "v": 16040,
+          "pu": "cat"
+        },
+        {
+          "pl": "Регион",
+          "vl": "Минск",
+          "p": "region",
+          "v": 7,
+          "pu": "rgn"
+        },
+        {
+          "pl": "Город / Район",
+          "vl": "Центральный",
+          "p": "area",
+          "v": "22",
+          "pu": "ar"
+        },
+        {
+          "pl": "Тип оплаты",
+          "vl": "Цена",
+          "p": "remuneration_type",
+          "v": "1",
+          "pu": "rtr"
+        },
+        {
+          "pl": "Матрица экрана",
+          "vl": "IPS",
+          "p": "computers_display_matrix_type",
+          "v": "21",
+          "pu": "cdmt"
+        },
+        {
+          "pl": "Игровой ноутбук",
+          "vl": "Да",
+          "p": "computer_equipment_laptops_gaming",
+          "v": true,
+          "pu": "celg"
+        },
+        {
+          "pl": "Производитель",
+          "vl": "Другой",
+          "p": "computers_laptop_brand",
+          "v": "31",
+          "pu": "clb"
+        },
+        {
+          "pl": "Диагональ экрана",
+          "vl": "15.6'' / 39.6 см",
+          "p": "computers_laptop_diagonal",
+          "v": "23",
+          "pu": "cld"
+        },
+        {
+          "pl": "Разрешение экрана",
+          "vl": "1920 х 1080",
+          "p": "computers_laptop_resolution",
+          "v": "8",
+          "pu": "clr"
+        },
+        {
+          "pl": "Операционная система",
+          "vl": "Windows 11",
+          "p": "computers_laptop_os",
+          "v": "12",
+          "pu": "clos"
+        },
+        {
+          "pl": "Процессор",
+          "vl": "AMD Ryzen 9",
+          "p": "computers_laptop_processor",
+          "v": "54",
+          "pu": "clp"
+        },
+        {
+          "pl": "Оперативная память",
+          "vl": "32 Гб",
+          "p": "computer_equipment_laptops_ram",
+          "v": "50",
+          "pu": "celr"
+        },
+        {
+          "pl": "Тип оперативной памяти",
+          "vl": "DDR5",
+          "p": "computers_ram_type",
+          "v": "15",
+          "pu": "cmprt"
+        },
+        {
+          "pl": "Тип видеокарты",
+          "vl": "Дискретная",
+          "p": "computers_laptop_videocard",
+          "v": "3",
+          "pu": "clv"
+        },
+        {
+          "pl": "Видеокарта",
+          "vl": "NVIDIA GeForce RTX 5070",
+          "p": "computers_laptop_videocard_brand",
+          "v": "578",
+          "pu": "clvb"
+        },
+        {
+          "pl": "Тип накопителя",
+          "vl": "SSD",
+          "p": "computers_laptop_hdd_type",
+          "v": "13",
+          "pu": "clht"
+        },
+        {
+          "pl": "Ёмкость накопителя",
+          "vl": "1000 Гб",
+          "p": "computers_laptop_hdd_volume",
+          "v": "37",
+          "pu": "clhv"
+        },
+        {
+          "pl": "Время автономной работы",
+          "vl": "6-10 часов",
+          "p": "computers_laptop_battery_life",
+          "v": "20",
+          "pu": "clbl"
+        },
+        {
+          "pl": "Состояние",
+          "vl": "Б/у",
+          "p": "condition",
+          "v": "1",
+          "pu": "cnd"
+        },
+        {
+          "pl": "Возможен обмен",
+          "vl": "Да",
+          "p": "possible_exchange",
+          "v": true,
+          "pu": "pse"
+        }
+      ],
+      "body": null,
+      "body_short": null,
+      "category": "16040",
+      "company_ad": false,
+      "currency": "BYR",
+      "feedback_info": null,
+      "images": [
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/e67d2b3f-7c58-4260-b3c3-df98ff55f3ce.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/0b37e005-8da4-4c96-824a-ef5ca5842d05.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/4af366e4-fb3e-490b-82fd-6cf0c632c013.jpg",
+          "yams_storage": false
+        }
+      ],
+      "is_mine": false,
+      "list_id": 1066095480,
+      "list_time": "2026-04-25T12:50:48Z",
+      "message_id": "adid1066095480",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "phone_hidden": true,
+      "price_byn": "459900",
+      "price_usd": "163166",
+      "remuneration_type": "1",
+      "show_parameters": {
+        "show_call": false,
+        "show_chat": false,
+        "show_import_link": false,
+        "show_web_shop_link": false
+      },
+      "subject": "Дешево 5070+32G+1TB",
+      "type": "sell"
+    },
+    {
+      "account_id": "Osp-mh6_ji3VWmIMGOrg79A",
+      "account_parameters": [
+        {
+          "pl": "Имя",
+          "vl": "",
+          "p": "name",
+          "v": "ИП Дычек Никита Сергеевич",
+          "pu": "nme"
+        },
+        {
+          "pl": "Адрес торговой точки",
+          "vl": "",
+          "p": "shop_address",
+          "v": "улица Кирилла Туровского, 24, Минск, пом. 220 (Цокольный этаж) Вывеска Apple Agent\n\nБратская улица, 11, Минск, пом. 287",
+          "pu": "sa"
+        },
+        {
+          "pl": "УНП",
+          "vl": "",
+          "p": "vat_number",
+          "v": "591371427",
+          "pu": "vn"
+        },
+        {
+          "pl": "Контактное лицо",
+          "vl": "",
+          "p": "contact_person",
+          "v": "AppleAgent ",
+          "pu": "cp"
+        },
+        {
+          "pl": "Юридический адрес/Адрес регистрации",
+          "vl": "",
+          "p": "company_address",
+          "v": "г. Минск, ул. К. Туровского д.24, пом.220 ",
+          "pu": "ca"
+        }
+      ],
+      "ad_id": 1065727034,
+      "ad_link": "https://www.kufar.by/item/1065727034",
+      "ad_parameters": [
+        {
+          "pl": "Подкатегория",
+          "vl": "Ноутбуки",
+          "p": "category",
+          "v": 16040,
+          "pu": "cat"
+        },
+        {
+          "pl": "Регион",
+          "vl": "Минск",
+          "p": "region",
+          "v": 7,
+          "pu": "rgn"
+        },
+        {
+          "pl": "Город / Район",
+          "vl": "Центральный",
+          "p": "area",
+          "v": "22",
+          "pu": "ar"
+        },
+        {
+          "pl": "Тип оплаты",
+          "vl": "Цена",
+          "p": "remuneration_type",
+          "v": "1",
+          "pu": "rtr"
+        },
+        {
+          "pl": "Матрица экрана",
+          "vl": "IPS",
+          "p": "computers_display_matrix_type",
+          "v": "21",
+          "pu": "cdmt"
+        },
+        {
+          "pl": "Производитель",
+          "vl": "Apple",
+          "p": "computers_laptop_brand",
+          "v": "5",
+          "pu": "clb"
+        },
+        {
+          "pl": "Диагональ экрана",
+          "vl": "13.3'' / 33.8 см",
+          "p": "computers_laptop_diagonal",
+          "v": "11",
+          "pu": "cld"
+        },
+        {
+          "pl": "Разрешение экрана",
+          "vl": "2560 х 1440",
+          "p": "computers_laptop_resolution",
+          "v": "11",
+          "pu": "clr"
+        },
+        {
+          "pl": "Операционная система",
+          "vl": "Mac OS",
+          "p": "computers_laptop_os",
+          "v": "25",
+          "pu": "clos"
+        },
+        {
+          "pl": "Процессор",
+          "vl": "Intel Core i7",
+          "p": "computers_laptop_processor",
+          "v": "1",
+          "pu": "clp"
+        },
+        {
+          "pl": "Оперативная память",
+          "vl": "16 Гб",
+          "p": "computer_equipment_laptops_ram",
+          "v": "40",
+          "pu": "celr"
+        },
+        {
+          "pl": "Тип накопителя",
+          "vl": "SSD",
+          "p": "computers_laptop_hdd_type",
+          "v": "13",
+          "pu": "clht"
+        },
+        {
+          "pl": "Ёмкость накопителя",
+          "vl": "256 ГБ",
+          "p": "computers_laptop_hdd_volume",
+          "v": "21",
+          "pu": "clhv"
+        },
+        {
+          "pl": "Время автономной работы",
+          "vl": "4-6 часов",
+          "p": "computers_laptop_battery_life",
+          "v": "15",
+          "pu": "clbl"
+        },
+        {
+          "pl": "Состояние",
+          "vl": "Б/у",
+          "p": "condition",
+          "v": "1",
+          "pu": "cnd"
+        },
+        {
+          "pl": "Товары с Куфар Доставкой",
+          "vl": "-",
+          "p": "delivery_enabled",
+          "v": false,
+          "pu": "dle"
+        },
+        {
+          "pl": "Товары с Куфар Оплатой",
+          "vl": "-",
+          "p": "safedeal_enabled",
+          "v": false,
+          "pu": "sde"
+        }
+      ],
+      "body": null,
+      "body_short": null,
+      "category": "16040",
+      "company_ad": true,
+      "currency": "BYR",
+      "feedback_info": null,
+      "images": [
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/25e78ed2-c0a4-4287-a227-3f816fdb0786.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/fcce81ac-51b5-47d3-aaad-af82af26b26c.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/6ef77293-c08f-49e1-96a0-0fe782d1b506.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/b942b9b7-23ed-4e7c-980b-f70149b0113b.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/91e96846-4676-4153-9338-e968dba724da.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/0b7d946d-61db-4116-8e40-b84823959b1c.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/ab8096c4-8fe8-467c-a2ce-e346b2a16b0d.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/c77efcf8-95ec-49d5-97bb-b17d50191f33.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/e2baf559-c84a-4be1-a67a-fa71afbcb12a.jpg",
+          "yams_storage": false
+        }
+      ],
+      "is_mine": false,
+      "list_id": 1065727034,
+      "list_time": "2026-04-25T12:49:57Z",
+      "message_id": "adid1065727034",
+      "paid_services": {
+        "halva": false,
+        "highlight": true,
+        "polepos": false,
+        "ribbons": null
+      },
+      "phone_hidden": false,
+      "price_byn": "150000",
+      "price_usd": "53218",
+      "remuneration_type": "1",
+      "show_parameters": {
+        "show_call": false,
+        "show_chat": false,
+        "show_import_link": false,
+        "show_web_shop_link": false
+      },
+      "subject": "MacBook Pro 13 2019 i7 16GB SSD 256GB Гарантия",
+      "type": "sell"
+    },
+    {
+      "account_id": "OusYtGsr7ixAb5V9uw2Uiuw",
+      "account_parameters": [
+        {
+          "pl": "Имя",
+          "vl": "",
+          "p": "name",
+          "v": "Михаил ",
+          "pu": "nme"
+        }
+      ],
+      "ad_id": 1065680911,
+      "ad_link": "https://www.kufar.by/item/1065680911",
+      "ad_parameters": [
+        {
+          "pl": "Подкатегория",
+          "vl": "Ноутбуки",
+          "p": "category",
+          "v": 16040,
+          "pu": "cat"
+        },
+        {
+          "pl": "Регион",
+          "vl": "Гомельская область",
+          "p": "region",
+          "v": 2,
+          "pu": "rgn"
+        },
+        {
+          "pl": "Город / Район",
+          "vl": "Речица",
+          "p": "area",
+          "v": "8",
+          "pu": "ar"
+        },
+        {
+          "pl": "Тип оплаты",
+          "vl": "Цена",
+          "p": "remuneration_type",
+          "v": "1",
+          "pu": "rtr"
+        },
+        {
+          "pl": "Игровой ноутбук",
+          "vl": "Да",
+          "p": "computer_equipment_laptops_gaming",
+          "v": true,
+          "pu": "celg"
+        },
+        {
+          "pl": "Производитель",
+          "vl": "ASUS",
+          "p": "computers_laptop_brand",
+          "v": "1",
+          "pu": "clb"
+        },
+        {
+          "pl": "Диагональ экрана",
+          "vl": "15.6'' / 39.6 см",
+          "p": "computers_laptop_diagonal",
+          "v": "23",
+          "pu": "cld"
+        },
+        {
+          "pl": "Операционная система",
+          "vl": "Windows 11",
+          "p": "computers_laptop_os",
+          "v": "12",
+          "pu": "clos"
+        },
+        {
+          "pl": "Процессор",
+          "vl": "AMD Ryzen 7",
+          "p": "computers_laptop_processor",
+          "v": "53",
+          "pu": "clp"
+        },
+        {
+          "pl": "Оперативная память",
+          "vl": "8 Гб",
+          "p": "computer_equipment_laptops_ram",
+          "v": "25",
+          "pu": "celr"
+        },
+        {
+          "pl": "Тип оперативной памяти",
+          "vl": "DDR4",
+          "p": "computers_ram_type",
+          "v": "10",
+          "pu": "cmprt"
+        },
+        {
+          "pl": "Тип видеокарты",
+          "vl": "Встроенная и дискретная",
+          "p": "computers_laptop_videocard",
+          "v": "5",
+          "pu": "clv"
+        },
+        {
+          "pl": "Видеокарта",
+          "vl": "NVIDIA GeForce GTX 1650 4 ГБ",
+          "p": "computers_laptop_videocard_brand",
+          "v": "295",
+          "pu": "clvb"
+        },
+        {
+          "pl": "Тип накопителя",
+          "vl": "SSD",
+          "p": "computers_laptop_hdd_type",
+          "v": "13",
+          "pu": "clht"
+        },
+        {
+          "pl": "Ёмкость накопителя",
+          "vl": "256 ГБ",
+          "p": "computers_laptop_hdd_volume",
+          "v": "21",
+          "pu": "clhv"
+        },
+        {
+          "pl": "Время автономной работы",
+          "vl": "2-4 часа",
+          "p": "computers_laptop_battery_life",
+          "v": "10",
+          "pu": "clbl"
+        },
+        {
+          "pl": "Состояние",
+          "vl": "Б/у",
+          "p": "condition",
+          "v": "1",
+          "pu": "cnd"
+        },
+        {
+          "pl": "Товары с Куфар Доставкой",
+          "vl": "Да",
+          "p": "delivery_enabled",
+          "v": true,
+          "pu": "dle"
+        }
+      ],
+      "body": null,
+      "body_short": null,
+      "category": "16040",
+      "company_ad": false,
+      "currency": "BYR",
+      "feedback_info": null,
+      "images": [
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/55cb1517-2dca-4fe0-b2d8-8ac3d403e153.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/8bedea91-2ce8-4b1c-acb2-c5a326857332.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/8ef14e5e-cb74-4818-9c96-e493287cf369.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/ee02d4f9-8a69-47bb-8f24-0c5c85e09b80.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/3a1ae700-3430-459a-8e33-43963175778e.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/cbb6c0c1-cda2-4e82-b721-8a81e66da0bc.jpg",
+          "yams_storage": false
+        }
+      ],
+      "is_mine": false,
+      "list_id": 1065680911,
+      "list_time": "2026-04-25T12:49:14Z",
+      "message_id": "adid1065680911",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "phone_hidden": false,
+      "price_byn": "120000",
+      "price_usd": "42574",
+      "remuneration_type": "1",
+      "show_parameters": {
+        "show_call": false,
+        "show_chat": false,
+        "show_import_link": false,
+        "show_web_shop_link": false
+      },
+      "subject": "Asus Tuf Gaming FX565DT",
+      "type": "sell"
+    },
+    {
+      "account_id": "Ool2R980TyrIzYJoLeRfHXw",
+      "account_parameters": [
+        {
+          "pl": "Имя",
+          "vl": "",
+          "p": "name",
+          "v": "Дмитрий ",
+          "pu": "nme"
+        }
+      ],
+      "ad_id": 1066283157,
+      "ad_link": "https://www.kufar.by/item/1066283157",
+      "ad_parameters": [
+        {
+          "pl": "Подкатегория",
+          "vl": "Ноутбуки",
+          "p": "category",
+          "v": 16040,
+          "pu": "cat"
+        },
+        {
+          "pl": "Регион",
+          "vl": "Могилевская область",
+          "p": "region",
+          "v": 4,
+          "pu": "rgn"
+        },
+        {
+          "pl": "Город / Район",
+          "vl": "Могилев",
+          "p": "area",
+          "v": "13",
+          "pu": "ar"
+        },
+        {
+          "pl": "Тип оплаты",
+          "vl": "Цена",
+          "p": "remuneration_type",
+          "v": "1",
+          "pu": "rtr"
+        },
+        {
+          "pl": "Матрица экрана",
+          "vl": "TN + Film",
+          "p": "computers_display_matrix_type",
+          "v": "1",
+          "pu": "cdmt"
+        },
+        {
+          "pl": "Производитель",
+          "vl": "Honor",
+          "p": "computers_laptop_brand",
+          "v": "55",
+          "pu": "clb"
+        },
+        {
+          "pl": "Диагональ экрана",
+          "vl": "16'' / 40.6 см",
+          "p": "computers_laptop_diagonal",
+          "v": "22",
+          "pu": "cld"
+        },
+        {
+          "pl": "Разрешение экрана",
+          "vl": "1920 х 1200",
+          "p": "computers_laptop_resolution",
+          "v": "9",
+          "pu": "clr"
+        },
+        {
+          "pl": "Операционная система",
+          "vl": "Windows 11",
+          "p": "computers_laptop_os",
+          "v": "12",
+          "pu": "clos"
+        },
+        {
+          "pl": "Процессор",
+          "vl": "AMD Ryzen 5",
+          "p": "computers_laptop_processor",
+          "v": "52",
+          "pu": "clp"
+        },
+        {
+          "pl": "Оперативная память",
+          "vl": "16 Гб",
+          "p": "computer_equipment_laptops_ram",
+          "v": "40",
+          "pu": "celr"
+        },
+        {
+          "pl": "Тип оперативной памяти",
+          "vl": "LPDDR5X",
+          "p": "computers_ram_type",
+          "v": "65",
+          "pu": "cmprt"
+        },
+        {
+          "pl": "Тип видеокарты",
+          "vl": "Встроенная",
+          "p": "computers_laptop_videocard",
+          "v": "1",
+          "pu": "clv"
+        },
+        {
+          "pl": "Тип накопителя",
+          "vl": "SSD",
+          "p": "computers_laptop_hdd_type",
+          "v": "13",
+          "pu": "clht"
+        },
+        {
+          "pl": "Ёмкость накопителя",
+          "vl": "512 Гб",
+          "p": "computers_laptop_hdd_volume",
+          "v": "27",
+          "pu": "clhv"
+        },
+        {
+          "pl": "Время автономной работы",
+          "vl": "6-10 часов",
+          "p": "computers_laptop_battery_life",
+          "v": "20",
+          "pu": "clbl"
+        },
+        {
+          "pl": "Состояние",
+          "vl": "Новое",
+          "p": "condition",
+          "v": "2",
+          "pu": "cnd"
+        },
+        {
+          "pl": "Товары с Куфар Доставкой",
+          "vl": "-",
+          "p": "delivery_enabled",
+          "v": false,
+          "pu": "dle"
+        },
+        {
+          "pl": "Товары с Куфар Оплатой",
+          "vl": "-",
+          "p": "safedeal_enabled",
+          "v": false,
+          "pu": "sde"
+        }
+      ],
+      "body": null,
+      "body_short": null,
+      "category": "16040",
+      "company_ad": false,
+      "currency": "BYR",
+      "feedback_info": null,
+      "images": [
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/1ee86199-1ec5-49ad-926d-71a224f5edfd.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/a636a972-2239-4e57-b12e-abe92790aea8.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/684a7ef6-ab72-47f3-add6-350e8413b420.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/f9edf2d3-9cd3-4e83-8fa5-c6d74c05e649.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/cb6904d0-fde8-4409-9b0d-513376b7a319.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/06569c3e-30ec-4a86-8760-a3e29205c26b.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/b10fba39-db8b-4a7f-8faf-280954c9ba37.jpg",
+          "yams_storage": false
+        }
+      ],
+      "is_mine": false,
+      "list_id": 1066283157,
+      "list_time": "2026-04-25T12:48:14Z",
+      "message_id": "adid1066283157",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "phone_hidden": false,
+      "price_byn": "160000",
+      "price_usd": "56766",
+      "remuneration_type": "1",
+      "show_parameters": {
+        "show_call": false,
+        "show_chat": false,
+        "show_import_link": false,
+        "show_web_shop_link": false
+      },
+      "subject": "Ноутбук HONOR MagicBook X16 AMD 2025GOH-X 5301APLL",
+      "type": "sell"
+    },
+    {
+      "account_id": "OiPmmKoM6ROBtbz-nPvjmhk",
+      "account_parameters": [
+        {
+          "pl": "Имя",
+          "vl": "",
+          "p": "name",
+          "v": "Максим",
+          "pu": "nme"
+        }
+      ],
+      "ad_id": 1066326499,
+      "ad_link": "https://www.kufar.by/item/1066326499",
+      "ad_parameters": [
+        {
+          "pl": "Подкатегория",
+          "vl": "Ноутбуки",
+          "p": "category",
+          "v": 16040,
+          "pu": "cat"
+        },
+        {
+          "pl": "Регион",
+          "vl": "Витебская область",
+          "p": "region",
+          "v": 6,
+          "pu": "rgn"
+        },
+        {
+          "pl": "Город / Район",
+          "vl": "Витебск",
+          "p": "area",
+          "v": "18",
+          "pu": "ar"
+        },
+        {
+          "pl": "Тип оплаты",
+          "vl": "Цена",
+          "p": "remuneration_type",
+          "v": "1",
+          "pu": "rtr"
+        },
+        {
+          "pl": "Матрица экрана",
+          "vl": "TN + Film",
+          "p": "computers_display_matrix_type",
+          "v": "1",
+          "pu": "cdmt"
+        },
+        {
+          "pl": "Производитель",
+          "vl": "Samsung",
+          "p": "computers_laptop_brand",
+          "v": "24",
+          "pu": "clb"
+        },
+        {
+          "pl": "Диагональ экрана",
+          "vl": "15.6'' / 39.6 см",
+          "p": "computers_laptop_diagonal",
+          "v": "23",
+          "pu": "cld"
+        },
+        {
+          "pl": "Разрешение экрана",
+          "vl": "1366 х 768",
+          "p": "computers_laptop_resolution",
+          "v": "3",
+          "pu": "clr"
+        },
+        {
+          "pl": "Операционная система",
+          "vl": "Windows 7",
+          "p": "computers_laptop_os",
+          "v": "1",
+          "pu": "clos"
+        },
+        {
+          "pl": "Оперативная память",
+          "vl": "6 Гб",
+          "p": "computer_equipment_laptops_ram",
+          "v": "20",
+          "pu": "celr"
+        },
+        {
+          "pl": "Тип оперативной памяти",
+          "vl": "DDR3",
+          "p": "computers_ram_type",
+          "v": "5",
+          "pu": "cmprt"
+        },
+        {
+          "pl": "Тип накопителя",
+          "vl": "HDD",
+          "p": "computers_laptop_hdd_type",
+          "v": "1",
+          "pu": "clht"
+        },
+        {
+          "pl": "Состояние",
+          "vl": "Б/у",
+          "p": "condition",
+          "v": "1",
+          "pu": "cnd"
+        },
+        {
+          "pl": "Товары с Куфар Доставкой",
+          "vl": "Да",
+          "p": "delivery_enabled",
+          "v": true,
+          "pu": "dle"
+        },
+        {
+          "pl": "Товары с Куфар Оплатой",
+          "vl": "-",
+          "p": "safedeal_enabled",
+          "v": false,
+          "pu": "sde"
+        }
+      ],
+      "body": null,
+      "body_short": null,
+      "category": "16040",
+      "company_ad": false,
+      "currency": "BYR",
+      "feedback_info": null,
+      "images": [
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/700a4af7-d346-46c2-9e34-12bd789213a5.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/4ea2606b-aa39-47a0-b372-f8807ad6c75e.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/5fa8547a-3210-4767-a661-4bbdacc70417.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/6b0d8fd2-3e9c-4dba-9690-811819f5bd2d.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/95eb4fed-0f4d-4c5c-9923-a0b45ad14760.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/1664708d-65fc-4b2b-bacf-1ab610abec6e.jpg",
+          "yams_storage": false
+        }
+      ],
+      "is_mine": false,
+      "list_id": 1066326499,
+      "list_time": "2026-04-25T12:47:59Z",
+      "message_id": "adid1066326499",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "phone_hidden": true,
+      "price_byn": "23000",
+      "price_usd": "8160",
+      "remuneration_type": "1",
+      "show_parameters": {
+        "show_call": false,
+        "show_chat": false,
+        "show_import_link": false,
+        "show_web_shop_link": false
+      },
+      "subject": "Ноутбук Samsung RV513",
+      "type": "sell"
+    },
+    {
+      "account_id": "OpLP4lthNt65gbaEju6wVXw",
+      "account_parameters": [
+        {
+          "pl": "Имя",
+          "vl": "",
+          "p": "name",
+          "v": "артём",
+          "pu": "nme"
+        }
+      ],
+      "ad_id": 1066326435,
+      "ad_link": "https://www.kufar.by/item/1066326435",
+      "ad_parameters": [
+        {
+          "pl": "Подкатегория",
+          "vl": "Ноутбуки",
+          "p": "category",
+          "v": 16040,
+          "pu": "cat"
+        },
+        {
+          "pl": "Регион",
+          "vl": "Брестская область",
+          "p": "region",
+          "v": 1,
+          "pu": "rgn"
+        },
+        {
+          "pl": "Город / Район",
+          "vl": "Барановичи",
+          "p": "area",
+          "v": "37",
+          "pu": "ar"
+        },
+        {
+          "pl": "Тип оплаты",
+          "vl": "Цена",
+          "p": "remuneration_type",
+          "v": "1",
+          "pu": "rtr"
+        },
+        {
+          "pl": "Производитель",
+          "vl": "Huawei",
+          "p": "computers_laptop_brand",
+          "v": "40",
+          "pu": "clb"
+        },
+        {
+          "pl": "Состояние",
+          "vl": "Б/у",
+          "p": "condition",
+          "v": "1",
+          "pu": "cnd"
+        }
+      ],
+      "body": null,
+      "body_short": null,
+      "category": "16040",
+      "company_ad": false,
+      "currency": "BYR",
+      "feedback_info": null,
+      "images": [
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/01da64e9-b097-4b91-b66b-c5c306f2445c.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/c55326ca-de8e-4de0-9339-7905120bf659.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/16f15867-a1f1-429e-a15f-6a58b32b6152.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/65e3da79-be68-4e28-b337-439dba6c5f52.jpg",
+          "yams_storage": false
+        }
+      ],
+      "is_mine": false,
+      "list_id": 1066326435,
+      "list_time": "2026-04-25T12:47:07Z",
+      "message_id": "adid1066326435",
+      "paid_services": {
+        "halva": true,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "phone_hidden": false,
+      "price_byn": "0",
+      "price_usd": "0",
+      "remuneration_type": "1",
+      "show_parameters": {
+        "show_call": false,
+        "show_chat": false,
+        "show_import_link": false,
+        "show_web_shop_link": false
+      },
+      "subject": "Ноутбук",
+      "type": "sell"
+    },
+    {
+      "account_id": "OjjB2MSCTYX9mWavw7zxJOA",
+      "account_parameters": [
+        {
+          "pl": "Ссылка на интернет-магазин",
+          "vl": "",
+          "p": "web_shop_link",
+          "v": "https://pcgallery.by",
+          "pu": "wsl"
+        },
+        {
+          "pl": "Дата",
+          "vl": "",
+          "p": "egr_date",
+          "v": "12.01.24",
+          "pu": "ed"
+        },
+        {
+          "pl": "УНП",
+          "vl": "",
+          "p": "vat_number",
+          "v": "791351482",
+          "pu": "vn"
+        },
+        {
+          "pl": "Номер в ЕГР",
+          "vl": "",
+          "p": "egr_number",
+          "v": "791351482",
+          "pu": "en"
+        },
+        {
+          "pl": "Юридический адрес/Адрес регистрации",
+          "vl": "",
+          "p": "company_address",
+          "v": "бульвар Ленина 6",
+          "pu": "ca"
+        },
+        {
+          "pl": "Наименование регистрирующего органа",
+          "vl": "",
+          "p": "egr_authority",
+          "v": "Администрация Ленинского района г.Могилева",
+          "pu": "ea"
+        },
+        {
+          "pl": "Номер",
+          "vl": "",
+          "p": "commercial_register_number",
+          "v": "572845",
+          "pu": "crn"
+        },
+        {
+          "pl": "Дата",
+          "vl": "",
+          "p": "commercial_register_date",
+          "v": "30.01.24",
+          "pu": "crde"
+        },
+        {
+          "pl": "Адрес торговой точки",
+          "vl": "",
+          "p": "shop_address",
+          "v": "Ленина бул, 6, Могилёв, Могилёвская область",
+          "pu": "sa"
+        },
+        {
+          "pl": "Контактное лицо",
+          "vl": "",
+          "p": "contact_person",
+          "v": "Администратор",
+          "pu": "cp"
+        },
+        {
+          "pl": "Имя",
+          "vl": "",
+          "p": "name",
+          "v": "ООО ''КОМПЬЮТЕРНАЯ ГАЛЕРЕЯ''",
+          "pu": "nme"
+        }
+      ],
+      "ad_id": 1063299736,
+      "ad_link": "https://www.kufar.by/item/1063299736",
+      "ad_parameters": [
+        {
+          "pl": "Неакционная (полная) цена",
+          "vl": "",
+          "p": "regular_price",
+          "v": 169900,
+          "pu": "rprc"
+        },
+        {
+          "pl": "Компания",
+          "vl": "",
+          "p": "trademark",
+          "v": "Компьютерная галерея",
+          "pu": "trd"
+        },
+        {
+          "pl": "Подкатегория",
+          "vl": "Ноутбуки",
+          "p": "category",
+          "v": 16040,
+          "pu": "cat"
+        },
+        {
+          "pl": "Товары с доставкой в регионы",
+          "vl": "Да",
+          "p": "multiregion_enabled",
+          "v": true,
+          "pu": "mle"
+        },
+        {
+          "pl": "Товары с доставкой в регионы",
+          "vl": [
+            "Вся Беларусь",
+            "Брестская",
+            "Гомельская",
+            "Гродненская",
+            "Могилевская",
+            "Минская",
+            "Витебская",
+            "Минск"
+          ],
+          "p": "multiregion_regions",
+          "v": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "pu": "mlr"
+        },
+        {
+          "pl": "Ключевые слова",
+          "vl": "",
+          "p": "users_synonyms",
+          "v": "Ноутбук, для дома, для учебы, ПК, AM5, Ryzen 5",
+          "pu": "usn"
+        },
+        {
+          "pl": "Регион",
+          "vl": "Могилевская область",
+          "p": "region",
+          "v": 4,
+          "pu": "rgn"
+        },
+        {
+          "pl": "Город / Район",
+          "vl": "Могилев",
+          "p": "area",
+          "v": "13",
+          "pu": "ar"
+        },
+        {
+          "pl": "Тип оплаты",
+          "vl": "Цена",
+          "p": "remuneration_type",
+          "v": "1",
+          "pu": "rtr"
+        },
+        {
+          "pl": "Матрица экрана",
+          "vl": "IPS",
+          "p": "computers_display_matrix_type",
+          "v": "21",
+          "pu": "cdmt"
+        },
+        {
+          "pl": "Производитель",
+          "vl": "Другой",
+          "p": "computers_laptop_brand",
+          "v": "31",
+          "pu": "clb"
+        },
+        {
+          "pl": "Диагональ экрана",
+          "vl": "15.6'' / 39.6 см",
+          "p": "computers_laptop_diagonal",
+          "v": "23",
+          "pu": "cld"
+        },
+        {
+          "pl": "Разрешение экрана",
+          "vl": "1920 х 1080",
+          "p": "computers_laptop_resolution",
+          "v": "8",
+          "pu": "clr"
+        },
+        {
+          "pl": "Операционная система",
+          "vl": "Windows 11",
+          "p": "computers_laptop_os",
+          "v": "12",
+          "pu": "clos"
+        },
+        {
+          "pl": "Процессор",
+          "vl": "AMD Ryzen 5",
+          "p": "computers_laptop_processor",
+          "v": "52",
+          "pu": "clp"
+        },
+        {
+          "pl": "Оперативная память",
+          "vl": "16 Гб",
+          "p": "computer_equipment_laptops_ram",
+          "v": "40",
+          "pu": "celr"
+        },
+        {
+          "pl": "Тип оперативной памяти",
+          "vl": "DDR4",
+          "p": "computers_ram_type",
+          "v": "10",
+          "pu": "cmprt"
+        },
+        {
+          "pl": "Тип видеокарты",
+          "vl": "Встроенная",
+          "p": "computers_laptop_videocard",
+          "v": "1",
+          "pu": "clv"
+        },
+        {
+          "pl": "Тип накопителя",
+          "vl": "SSD",
+          "p": "computers_laptop_hdd_type",
+          "v": "13",
+          "pu": "clht"
+        },
+        {
+          "pl": "Ёмкость накопителя",
+          "vl": "512 Гб",
+          "p": "computers_laptop_hdd_volume",
+          "v": "27",
+          "pu": "clhv"
+        },
+        {
+          "pl": "Время автономной работы",
+          "vl": "4-6 часов",
+          "p": "computers_laptop_battery_life",
+          "v": "15",
+          "pu": "clbl"
+        },
+        {
+          "pl": "Состояние",
+          "vl": "Новое",
+          "p": "condition",
+          "v": "2",
+          "pu": "cnd"
+        },
+        {
+          "pl": "Гарантийный срок",
+          "vl": "",
+          "p": "shop_guarantee",
+          "v": "12 месяцев",
+          "pu": "sg"
+        },
+        {
+          "pl": "Товары с Куфар Доставкой",
+          "vl": "-",
+          "p": "delivery_enabled",
+          "v": false,
+          "pu": "dle"
+        },
+        {
+          "pl": "Товары с Куфар Оплатой",
+          "vl": "-",
+          "p": "safedeal_enabled",
+          "v": false,
+          "pu": "sde"
+        },
+        {
+          "pl": "Доставка от продавца",
+          "vl": "Да",
+          "p": "delivery_pro",
+          "v": true,
+          "pu": "dlpr"
+        },
+        {
+          "pl": "Рассрочка от продавца",
+          "vl": "Да",
+          "p": "installment_pro",
+          "v": true,
+          "pu": "inpr"
+        }
+      ],
+      "body": null,
+      "body_short": null,
+      "category": "16040",
+      "company_ad": true,
+      "currency": "BYR",
+      "feedback_info": null,
+      "images": [
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/244dd8b2-f41a-4a87-9f7f-d50d513b31aa.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/331c7754-5009-424e-8b54-e86ed7f55815.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/4d2d44d3-c762-433c-a063-46abcf43e592.jpg",
+          "yams_storage": false
+        }
+      ],
+      "is_mine": false,
+      "list_id": 1063299736,
+      "list_time": "2026-04-25T12:45:20Z",
+      "message_id": "adid1063299736",
+      "paid_services": {
+        "halva": false,
+        "highlight": true,
+        "polepos": true,
+        "ribbons": null
+      },
+      "phone_hidden": false,
+      "price_byn": "155900",
+      "price_usd": "55311",
+      "remuneration_type": "1",
+      "show_parameters": {
+        "show_call": false,
+        "show_chat": false,
+        "show_import_link": false,
+        "show_web_shop_link": false
+      },
+      "subject": "Ноутбук NinKear A15 Air/Ryzen 5 3500U/16 ГБ DDR4/512 ГБ SSD/AMD Radeon Vega 8/Кредит/Рассрочка",
+      "type": "sell"
+    },
+    {
+      "account_id": "OqihISP99de4I3omtl7UmSE",
+      "account_parameters": [
+        {
+          "pl": "Имя",
+          "vl": "",
+          "p": "name",
+          "v": "Владимир ",
+          "pu": "nme"
+        }
+      ],
+      "ad_id": 1066325993,
+      "ad_link": "https://www.kufar.by/item/1066325993",
+      "ad_parameters": [
+        {
+          "pl": "Подкатегория",
+          "vl": "Ноутбуки",
+          "p": "category",
+          "v": 16040,
+          "pu": "cat"
+        },
+        {
+          "pl": "Регион",
+          "vl": "Могилевская область",
+          "p": "region",
+          "v": 4,
+          "pu": "rgn"
+        },
+        {
+          "pl": "Город / Район",
+          "vl": "Могилев",
+          "p": "area",
+          "v": "13",
+          "pu": "ar"
+        },
+        {
+          "pl": "Тип оплаты",
+          "vl": "Цена",
+          "p": "remuneration_type",
+          "v": "1",
+          "pu": "rtr"
+        },
+        {
+          "pl": "Производитель",
+          "vl": "Apple",
+          "p": "computers_laptop_brand",
+          "v": "5",
+          "pu": "clb"
+        },
+        {
+          "pl": "Состояние",
+          "vl": "Б/у",
+          "p": "condition",
+          "v": "1",
+          "pu": "cnd"
+        },
+        {
+          "pl": "Товары с Куфар Доставкой",
+          "vl": "Да",
+          "p": "delivery_enabled",
+          "v": true,
+          "pu": "dle"
+        }
+      ],
+      "body": null,
+      "body_short": null,
+      "category": "16040",
+      "company_ad": false,
+      "currency": "BYR",
+      "feedback_info": null,
+      "images": [
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/a4c2e234-086f-4340-8573-5c49d26caac7.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/30cb7872-d7b5-49d1-bf65-1070572eeefb.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/9d343968-3f58-422e-83e1-7198cf8e63c9.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/76388df1-a4e6-4663-9575-e6b0e9c6654a.jpg",
+          "yams_storage": false
+        }
+      ],
+      "is_mine": false,
+      "list_id": 1066325993,
+      "list_time": "2026-04-25T12:41:09Z",
+      "message_id": "adid1066325993",
+      "paid_services": {
+        "halva": true,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "phone_hidden": false,
+      "price_byn": "19000",
+      "price_usd": "6741",
+      "remuneration_type": "1",
+      "show_parameters": {
+        "show_call": false,
+        "show_chat": false,
+        "show_import_link": false,
+        "show_web_shop_link": false
+      },
+      "subject": "Макбук",
+      "type": "sell"
+    },
+    {
+      "account_id": "Og2rt2XcjFVYxU8-N5R_ANc",
+      "account_parameters": [
+        {
+          "pl": "Имя",
+          "vl": "",
+          "p": "name",
+          "v": "ИП Турзенок С.А.",
+          "pu": "nme"
+        },
+        {
+          "pl": "Контактное лицо",
+          "vl": "",
+          "p": "contact_person",
+          "v": "Сергей ",
+          "pu": "cp"
+        },
+        {
+          "pl": "Дата",
+          "vl": "",
+          "p": "commercial_register_date",
+          "v": "23.11.18",
+          "pu": "crde"
+        },
+        {
+          "pl": "Адрес торговой точки",
+          "vl": "",
+          "p": "shop_address",
+          "v": "улица Короля, 88, Минск",
+          "pu": "sa"
+        },
+        {
+          "pl": "УНП",
+          "vl": "",
+          "p": "vat_number",
+          "v": "692101228",
+          "pu": "vn"
+        },
+        {
+          "pl": "Номер",
+          "vl": "",
+          "p": "commercial_register_number",
+          "v": "433470",
+          "pu": "crn"
+        },
+        {
+          "pl": "Юридический адрес/Адрес регистрации",
+          "vl": "",
+          "p": "company_address",
+          "v": "г. Минск ул Короля д88",
+          "pu": "ca"
+        },
+        {
+          "pl": "Ссылка на интернет-магазин",
+          "vl": "",
+          "p": "web_shop_link",
+          "v": "https://notebook-minsk.by",
+          "pu": "wsl"
+        }
+      ],
+      "ad_id": 1060669103,
+      "ad_link": "https://www.kufar.by/item/1060669103",
+      "ad_parameters": [
+        {
+          "pl": "Товары с доставкой в регионы",
+          "vl": [
+            "Вся Беларусь",
+            "Брестская",
+            "Гомельская",
+            "Гродненская",
+            "Могилевская",
+            "Минская",
+            "Витебская",
+            "Минск"
+          ],
+          "p": "multiregion_regions",
+          "v": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ],
+          "pu": "mlr"
+        },
+        {
+          "pl": "Подкатегория",
+          "vl": "Ноутбуки",
+          "p": "category",
+          "v": 16040,
+          "pu": "cat"
+        },
+        {
+          "pl": "Товары с доставкой в регионы",
+          "vl": "Да",
+          "p": "multiregion_enabled",
+          "v": true,
+          "pu": "mle"
+        },
+        {
+          "pl": "Регион",
+          "vl": "Минск",
+          "p": "region",
+          "v": 7,
+          "pu": "rgn"
+        },
+        {
+          "pl": "Город / Район",
+          "vl": "Московский",
+          "p": "area",
+          "v": "29",
+          "pu": "ar"
+        },
+        {
+          "pl": "Тип оплаты",
+          "vl": "Цена",
+          "p": "remuneration_type",
+          "v": "1",
+          "pu": "rtr"
+        },
+        {
+          "pl": "Матрица экрана",
+          "vl": "IPS",
+          "p": "computers_display_matrix_type",
+          "v": "21",
+          "pu": "cdmt"
+        },
+        {
+          "pl": "Игровой ноутбук",
+          "vl": "Да",
+          "p": "computer_equipment_laptops_gaming",
+          "v": true,
+          "pu": "celg"
+        },
+        {
+          "pl": "Производитель",
+          "vl": "Acer",
+          "p": "computers_laptop_brand",
+          "v": "3",
+          "pu": "clb"
+        },
+        {
+          "pl": "Диагональ экрана",
+          "vl": "15.6'' / 39.6 см",
+          "p": "computers_laptop_diagonal",
+          "v": "23",
+          "pu": "cld"
+        },
+        {
+          "pl": "Разрешение экрана",
+          "vl": "1920 х 1080",
+          "p": "computers_laptop_resolution",
+          "v": "8",
+          "pu": "clr"
+        },
+        {
+          "pl": "Операционная система",
+          "vl": "Windows 10",
+          "p": "computers_laptop_os",
+          "v": "10",
+          "pu": "clos"
+        },
+        {
+          "pl": "Процессор",
+          "vl": "Intel Core i5",
+          "p": "computers_laptop_processor",
+          "v": "3",
+          "pu": "clp"
+        },
+        {
+          "pl": "Оперативная память",
+          "vl": "16 Гб",
+          "p": "computer_equipment_laptops_ram",
+          "v": "40",
+          "pu": "celr"
+        },
+        {
+          "pl": "Тип оперативной памяти",
+          "vl": "DDR4",
+          "p": "computers_ram_type",
+          "v": "10",
+          "pu": "cmprt"
+        },
+        {
+          "pl": "Тип видеокарты",
+          "vl": "Встроенная и дискретная",
+          "p": "computers_laptop_videocard",
+          "v": "5",
+          "pu": "clv"
+        },
+        {
+          "pl": "Видеокарта",
+          "vl": "NVIDIA GeForce RTX 3060 6 ГБ",
+          "p": "computers_laptop_videocard_brand",
+          "v": "525",
+          "pu": "clvb"
+        },
+        {
+          "pl": "Тип накопителя",
+          "vl": "SSD",
+          "p": "computers_laptop_hdd_type",
+          "v": "13",
+          "pu": "clht"
+        },
+        {
+          "pl": "Ёмкость накопителя",
+          "vl": "512 Гб",
+          "p": "computers_laptop_hdd_volume",
+          "v": "27",
+          "pu": "clhv"
+        },
+        {
+          "pl": "Время автономной работы",
+          "vl": "2-4 часа",
+          "p": "computers_laptop_battery_life",
+          "v": "10",
+          "pu": "clbl"
+        },
+        {
+          "pl": "Состояние",
+          "vl": "Б/у",
+          "p": "condition",
+          "v": "1",
+          "pu": "cnd"
+        },
+        {
+          "pl": "Гарантийный срок",
+          "vl": "",
+          "p": "shop_guarantee",
+          "v": "45 дней",
+          "pu": "sg"
+        },
+        {
+          "pl": "Товары с Куфар Доставкой",
+          "vl": "-",
+          "p": "delivery_enabled",
+          "v": false,
+          "pu": "dle"
+        },
+        {
+          "pl": "Товары с Куфар Оплатой",
+          "vl": "-",
+          "p": "safedeal_enabled",
+          "v": false,
+          "pu": "sde"
+        }
+      ],
+      "body": null,
+      "body_short": null,
+      "category": "16040",
+      "company_ad": true,
+      "currency": "BYR",
+      "feedback_info": null,
+      "images": [
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/81debe5b-9978-4f89-9c58-6f3f095a2e28.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/9b1290de-58d3-4b10-b156-1c6203715bdf.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/a834eb44-b9c2-4b90-b473-cff5434d1ffc.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/9c7085b4-36aa-4c15-b834-e10aa26ba6c3.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/95919674-9dd1-404d-b024-b17e417c25c3.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/a634d799-7c20-4537-b2cc-2f10f6ee39ea.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/8c5d9466-475e-4459-acb7-debbdc0b6e42.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/e4c5336b-8021-4573-b35c-3fddc3828ccf.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/28153a79-9584-4a62-a47e-d5bf49ef0bcd.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/4539c980-2299-4c81-9d1e-093489e6a2a2.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/13216436-25af-41d7-9984-218b8caf4b9f.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/92ceb550-bf43-42fb-b7c0-8c4f77a4b452.jpg",
+          "yams_storage": false
+        }
+      ],
+      "is_mine": false,
+      "list_id": 1060669103,
+      "list_time": "2026-04-25T12:40:35Z",
+      "message_id": "adid1060669103",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "phone_hidden": false,
+      "price_byn": "215000",
+      "price_usd": "76279",
+      "remuneration_type": "1",
+      "show_parameters": {
+        "show_call": false,
+        "show_chat": false,
+        "show_import_link": false,
+        "show_web_shop_link": false
+      },
+      "subject": "Игровой ноутбук Acer Nitro 5 (CORE I5/16GB/RTX 3060 6GB/144Гц)",
+      "type": "sell"
+    },
+    {
+      "account_id": "Oni-l-e98oKrMgLiXn8DAJY",
+      "account_parameters": [
+        {
+          "pl": "Имя",
+          "vl": "",
+          "p": "name",
+          "v": "егор",
+          "pu": "nme"
+        }
+      ],
+      "ad_id": 1066325882,
+      "ad_link": "https://www.kufar.by/item/1066325882",
+      "ad_parameters": [
+        {
+          "pl": "Подкатегория",
+          "vl": "Ноутбуки",
+          "p": "category",
+          "v": 16040,
+          "pu": "cat"
+        },
+        {
+          "pl": "Регион",
+          "vl": "Минск",
+          "p": "region",
+          "v": 7,
+          "pu": "rgn"
+        },
+        {
+          "pl": "Город / Район",
+          "vl": "Первомайский",
+          "p": "area",
+          "v": "24",
+          "pu": "ar"
+        },
+        {
+          "pl": "Тип оплаты",
+          "vl": "Цена",
+          "p": "remuneration_type",
+          "v": "1",
+          "pu": "rtr"
+        },
+        {
+          "pl": "Матрица экрана",
+          "vl": "IPS",
+          "p": "computers_display_matrix_type",
+          "v": "21",
+          "pu": "cdmt"
+        },
+        {
+          "pl": "Производитель",
+          "vl": "Apple",
+          "p": "computers_laptop_brand",
+          "v": "5",
+          "pu": "clb"
+        },
+        {
+          "pl": "Диагональ экрана",
+          "vl": "15.0'' / 38.1 см",
+          "p": "computers_laptop_diagonal",
+          "v": "17",
+          "pu": "cld"
+        },
+        {
+          "pl": "Операционная система",
+          "vl": "Mac OS",
+          "p": "computers_laptop_os",
+          "v": "25",
+          "pu": "clos"
+        },
+        {
+          "pl": "Процессор",
+          "vl": "Intel Core i7",
+          "p": "computers_laptop_processor",
+          "v": "1",
+          "pu": "clp"
+        },
+        {
+          "pl": "Оперативная память",
+          "vl": "16 Гб",
+          "p": "computer_equipment_laptops_ram",
+          "v": "40",
+          "pu": "celr"
+        },
+        {
+          "pl": "Ёмкость накопителя",
+          "vl": "512 Гб",
+          "p": "computers_laptop_hdd_volume",
+          "v": "27",
+          "pu": "clhv"
+        },
+        {
+          "pl": "Время автономной работы",
+          "vl": "4-6 часов",
+          "p": "computers_laptop_battery_life",
+          "v": "15",
+          "pu": "clbl"
+        },
+        {
+          "pl": "Состояние",
+          "vl": "Б/у",
+          "p": "condition",
+          "v": "1",
+          "pu": "cnd"
+        },
+        {
+          "pl": "Товары с Куфар Доставкой",
+          "vl": "Да",
+          "p": "delivery_enabled",
+          "v": true,
+          "pu": "dle"
+        }
+      ],
+      "body": null,
+      "body_short": null,
+      "category": "16040",
+      "company_ad": false,
+      "currency": "BYR",
+      "feedback_info": null,
+      "images": [
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/84fcd477-5f75-476f-b251-2c84f7ce9854.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/48507162-f82a-4f45-85ed-508557a57900.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/2142fa82-46fa-486d-abff-40ab6265c905.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/1aaace56-1f76-4089-a136-befe29839ee7.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/a10206d7-a36d-4496-8f4c-9e8d84aa4ac7.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/bdaae88d-7ad8-472a-89da-a74882b9753c.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/c1e32b84-cea2-4d1a-a3a1-aef5730ae14e.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/b2062ca8-b447-4c3d-9993-3c310abe0cd8.jpg",
+          "yams_storage": false
+        }
+      ],
+      "is_mine": false,
+      "list_id": 1066325882,
+      "list_time": "2026-04-25T12:40:33Z",
+      "message_id": "adid1066325882",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "phone_hidden": false,
+      "price_byn": "120000",
+      "price_usd": "42574",
+      "remuneration_type": "1",
+      "show_parameters": {
+        "show_call": false,
+        "show_chat": false,
+        "show_import_link": false,
+        "show_web_shop_link": false
+      },
+      "subject": "Macbook pro 15 2017",
+      "type": "sell"
+    },
+    {
+      "account_id": "OowxxPWd7XNCq5qMfqNXCwE",
+      "account_parameters": [
+        {
+          "pl": "Имя",
+          "vl": "",
+          "p": "name",
+          "v": "qww",
+          "pu": "nme"
+        }
+      ],
+      "ad_id": 1066325786,
+      "ad_link": "https://www.kufar.by/item/1066325786",
+      "ad_parameters": [
+        {
+          "pl": "Подкатегория",
+          "vl": "Ноутбуки",
+          "p": "category",
+          "v": 16040,
+          "pu": "cat"
+        },
+        {
+          "pl": "Регион",
+          "vl": "Гродненская область",
+          "p": "region",
+          "v": 3,
+          "pu": "rgn"
+        },
+        {
+          "pl": "Город / Район",
+          "vl": "Гродно",
+          "p": "area",
+          "v": "9",
+          "pu": "ar"
+        },
+        {
+          "pl": "Тип оплаты",
+          "vl": "Цена",
+          "p": "remuneration_type",
+          "v": "1",
+          "pu": "rtr"
+        },
+        {
+          "pl": "Матрица экрана",
+          "vl": "OLED",
+          "p": "computers_display_matrix_type",
+          "v": "45",
+          "pu": "cdmt"
+        },
+        {
+          "pl": "Производитель",
+          "vl": "ASUS",
+          "p": "computers_laptop_brand",
+          "v": "1",
+          "pu": "clb"
+        },
+        {
+          "pl": "Диагональ экрана",
+          "vl": "15.6'' / 39.6 см",
+          "p": "computers_laptop_diagonal",
+          "v": "23",
+          "pu": "cld"
+        },
+        {
+          "pl": "Разрешение экрана",
+          "vl": "1920 х 1080",
+          "p": "computers_laptop_resolution",
+          "v": "8",
+          "pu": "clr"
+        },
+        {
+          "pl": "Операционная система",
+          "vl": "Windows 11",
+          "p": "computers_laptop_os",
+          "v": "12",
+          "pu": "clos"
+        },
+        {
+          "pl": "Процессор",
+          "vl": "AMD Ryzen 5",
+          "p": "computers_laptop_processor",
+          "v": "52",
+          "pu": "clp"
+        },
+        {
+          "pl": "Оперативная память",
+          "vl": "16 Гб",
+          "p": "computer_equipment_laptops_ram",
+          "v": "40",
+          "pu": "celr"
+        },
+        {
+          "pl": "Тип оперативной памяти",
+          "vl": "LPDDR5",
+          "p": "computers_ram_type",
+          "v": "60",
+          "pu": "cmprt"
+        },
+        {
+          "pl": "Тип видеокарты",
+          "vl": "Встроенная",
+          "p": "computers_laptop_videocard",
+          "v": "1",
+          "pu": "clv"
+        },
+        {
+          "pl": "Видеокарта",
+          "vl": "AMD Radeon 610 2 ГБ",
+          "p": "computers_laptop_videocard_brand",
+          "v": "50",
+          "pu": "clvb"
+        },
+        {
+          "pl": "Тип накопителя",
+          "vl": "SSD",
+          "p": "computers_laptop_hdd_type",
+          "v": "13",
+          "pu": "clht"
+        },
+        {
+          "pl": "Ёмкость накопителя",
+          "vl": "256 ГБ",
+          "p": "computers_laptop_hdd_volume",
+          "v": "21",
+          "pu": "clhv"
+        },
+        {
+          "pl": "Время автономной работы",
+          "vl": "2-4 часа",
+          "p": "computers_laptop_battery_life",
+          "v": "10",
+          "pu": "clbl"
+        },
+        {
+          "pl": "Состояние",
+          "vl": "Б/у",
+          "p": "condition",
+          "v": "1",
+          "pu": "cnd"
+        },
+        {
+          "pl": "Товары с Куфар Доставкой",
+          "vl": "Да",
+          "p": "delivery_enabled",
+          "v": true,
+          "pu": "dle"
+        },
+        {
+          "pl": "Товары с Куфар Оплатой",
+          "vl": "Да",
+          "p": "safedeal_enabled",
+          "v": true,
+          "pu": "sde"
+        },
+        {
+          "pl": "Возможен обмен",
+          "vl": "Да",
+          "p": "possible_exchange",
+          "v": true,
+          "pu": "pse"
+        }
+      ],
+      "body": null,
+      "body_short": null,
+      "category": "16040",
+      "company_ad": false,
+      "currency": "BYR",
+      "feedback_info": null,
+      "images": [
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/b6c04204-8ddf-467a-9443-bf8311ffadf8.jpg",
+          "yams_storage": false
+        }
+      ],
+      "is_mine": false,
+      "list_id": 1066325786,
+      "list_time": "2026-04-25T12:40:19Z",
+      "message_id": "adid1066325786",
+      "paid_services": {
+        "halva": true,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "phone_hidden": true,
+      "price_byn": "75000",
+      "price_usd": "26609",
+      "remuneration_type": "1",
+      "show_parameters": {
+        "show_call": false,
+        "show_chat": false,
+        "show_import_link": false,
+        "show_web_shop_link": false
+      },
+      "subject": "Asus VIVOBOOK GO oled ryzen 5 7520u 16gb DDR5 256G",
+      "type": "sell"
+    },
+    {
+      "account_id": "On4wCViydokFXaj4QSxb7ko",
+      "account_parameters": [
+        {
+          "pl": "Имя",
+          "vl": "",
+          "p": "name",
+          "v": "Никита",
+          "pu": "nme"
+        }
+      ],
+      "ad_id": 1059957422,
+      "ad_link": "https://www.kufar.by/item/1059957422",
+      "ad_parameters": [
+        {
+          "pl": "Подкатегория",
+          "vl": "Ноутбуки",
+          "p": "category",
+          "v": 16040,
+          "pu": "cat"
+        },
+        {
+          "pl": "Регион",
+          "vl": "Минск",
+          "p": "region",
+          "v": 7,
+          "pu": "rgn"
+        },
+        {
+          "pl": "Город / Район",
+          "vl": "Московский",
+          "p": "area",
+          "v": "29",
+          "pu": "ar"
+        },
+        {
+          "pl": "Тип оплаты",
+          "vl": "Цена",
+          "p": "remuneration_type",
+          "v": "1",
+          "pu": "rtr"
+        },
+        {
+          "pl": "Матрица экрана",
+          "vl": "IPS",
+          "p": "computers_display_matrix_type",
+          "v": "21",
+          "pu": "cdmt"
+        },
+        {
+          "pl": "Производитель",
+          "vl": "Honor",
+          "p": "computers_laptop_brand",
+          "v": "55",
+          "pu": "clb"
+        },
+        {
+          "pl": "Диагональ экрана",
+          "vl": "15.6'' / 39.6 см",
+          "p": "computers_laptop_diagonal",
+          "v": "23",
+          "pu": "cld"
+        },
+        {
+          "pl": "Разрешение экрана",
+          "vl": "1920 х 1080",
+          "p": "computers_laptop_resolution",
+          "v": "8",
+          "pu": "clr"
+        },
+        {
+          "pl": "Операционная система",
+          "vl": "Windows 11",
+          "p": "computers_laptop_os",
+          "v": "12",
+          "pu": "clos"
+        },
+        {
+          "pl": "Процессор",
+          "vl": "Intel Core i3",
+          "p": "computers_laptop_processor",
+          "v": "5",
+          "pu": "clp"
+        },
+        {
+          "pl": "Оперативная память",
+          "vl": "8 Гб",
+          "p": "computer_equipment_laptops_ram",
+          "v": "25",
+          "pu": "celr"
+        },
+        {
+          "pl": "Тип оперативной памяти",
+          "vl": "DDR4",
+          "p": "computers_ram_type",
+          "v": "10",
+          "pu": "cmprt"
+        },
+        {
+          "pl": "Тип видеокарты",
+          "vl": "Встроенная",
+          "p": "computers_laptop_videocard",
+          "v": "1",
+          "pu": "clv"
+        },
+        {
+          "pl": "Видеокарта",
+          "vl": "Intel UHD Graphics",
+          "p": "computers_laptop_videocard_brand",
+          "v": "188",
+          "pu": "clvb"
+        },
+        {
+          "pl": "Тип накопителя",
+          "vl": "SSD",
+          "p": "computers_laptop_hdd_type",
+          "v": "13",
+          "pu": "clht"
+        },
+        {
+          "pl": "Ёмкость накопителя",
+          "vl": "256 ГБ",
+          "p": "computers_laptop_hdd_volume",
+          "v": "21",
+          "pu": "clhv"
+        },
+        {
+          "pl": "Время автономной работы",
+          "vl": "6-10 часов",
+          "p": "computers_laptop_battery_life",
+          "v": "20",
+          "pu": "clbl"
+        },
+        {
+          "pl": "Состояние",
+          "vl": "Б/у",
+          "p": "condition",
+          "v": "1",
+          "pu": "cnd"
+        },
+        {
+          "pl": "Товары с Куфар Доставкой",
+          "vl": "Да",
+          "p": "delivery_enabled",
+          "v": true,
+          "pu": "dle"
+        },
+        {
+          "pl": "Товары с Куфар Оплатой",
+          "vl": "-",
+          "p": "safedeal_enabled",
+          "v": false,
+          "pu": "sde"
+        },
+        {
+          "pl": "Возможен обмен",
+          "vl": "Да",
+          "p": "possible_exchange",
+          "v": true,
+          "pu": "pse"
+        }
+      ],
+      "body": null,
+      "body_short": null,
+      "category": "16040",
+      "company_ad": false,
+      "currency": "BYR",
+      "feedback_info": null,
+      "images": [
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/89f72d2e-12e6-4fda-8fff-15649e81a978.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/2047f386-1d75-47fc-becd-47de720b16f5.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/86ed9e85-cdb2-4e84-96a3-0181b1c73d7f.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/73350fee-0641-4f6c-b467-0c86c10c4dfa.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/fdc2de0d-a0af-4723-93cc-d2f877d1778f.jpg",
+          "yams_storage": false
+        }
+      ],
+      "is_mine": false,
+      "list_id": 1059957422,
+      "list_time": "2026-04-25T12:39:12Z",
+      "message_id": "adid1059957422",
+      "paid_services": {
+        "halva": true,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "phone_hidden": false,
+      "price_byn": "95000",
+      "price_usd": "33705",
+      "remuneration_type": "1",
+      "show_parameters": {
+        "show_call": false,
+        "show_chat": false,
+        "show_import_link": false,
+        "show_web_shop_link": false
+      },
+      "subject": "Honor MagicBook X 15 Металл, i3, 256GB, 350 циклов",
+      "type": "sell"
+    },
+    {
+      "account_id": "OrbKoGISuIXDq8DQL1WgbA8",
+      "account_parameters": [
+        {
+          "pl": "Имя",
+          "vl": "",
+          "p": "name",
+          "v": "Евгений Павлович",
+          "pu": "nme"
+        }
+      ],
+      "ad_id": 1064762520,
+      "ad_link": "https://www.kufar.by/item/1064762520",
+      "ad_parameters": [
+        {
+          "pl": "Подкатегория",
+          "vl": "Ноутбуки",
+          "p": "category",
+          "v": 16040,
+          "pu": "cat"
+        },
+        {
+          "pl": "Регион",
+          "vl": "Минск",
+          "p": "region",
+          "v": 7,
+          "pu": "rgn"
+        },
+        {
+          "pl": "Город / Район",
+          "vl": "Первомайский",
+          "p": "area",
+          "v": "24",
+          "pu": "ar"
+        },
+        {
+          "pl": "Тип оплаты",
+          "vl": "Цена",
+          "p": "remuneration_type",
+          "v": "1",
+          "pu": "rtr"
+        },
+        {
+          "pl": "Матрица экрана",
+          "vl": "IPS",
+          "p": "computers_display_matrix_type",
+          "v": "21",
+          "pu": "cdmt"
+        },
+        {
+          "pl": "Игровой ноутбук",
+          "vl": "Да",
+          "p": "computer_equipment_laptops_gaming",
+          "v": true,
+          "pu": "celg"
+        },
+        {
+          "pl": "Производитель",
+          "vl": "HP",
+          "p": "computers_laptop_brand",
+          "v": "15",
+          "pu": "clb"
+        },
+        {
+          "pl": "Диагональ экрана",
+          "vl": "15.6'' / 39.6 см",
+          "p": "computers_laptop_diagonal",
+          "v": "23",
+          "pu": "cld"
+        },
+        {
+          "pl": "Разрешение экрана",
+          "vl": "1920 х 1080",
+          "p": "computers_laptop_resolution",
+          "v": "8",
+          "pu": "clr"
+        },
+        {
+          "pl": "Операционная система",
+          "vl": "Windows 10",
+          "p": "computers_laptop_os",
+          "v": "10",
+          "pu": "clos"
+        },
+        {
+          "pl": "Процессор",
+          "vl": "Intel Core i5",
+          "p": "computers_laptop_processor",
+          "v": "3",
+          "pu": "clp"
+        },
+        {
+          "pl": "Оперативная память",
+          "vl": "8 Гб",
+          "p": "computer_equipment_laptops_ram",
+          "v": "25",
+          "pu": "celr"
+        },
+        {
+          "pl": "Тип оперативной памяти",
+          "vl": "DDR4",
+          "p": "computers_ram_type",
+          "v": "10",
+          "pu": "cmprt"
+        },
+        {
+          "pl": "Тип видеокарты",
+          "vl": "Встроенная и дискретная",
+          "p": "computers_laptop_videocard",
+          "v": "5",
+          "pu": "clv"
+        },
+        {
+          "pl": "Видеокарта",
+          "vl": "NVIDIA GeForce GTX 1050 4 ГБ",
+          "p": "computers_laptop_videocard_brand",
+          "v": "240",
+          "pu": "clvb"
+        },
+        {
+          "pl": "Тип накопителя",
+          "vl": "SSD",
+          "p": "computers_laptop_hdd_type",
+          "v": "13",
+          "pu": "clht"
+        },
+        {
+          "pl": "Ёмкость накопителя",
+          "vl": "256 ГБ",
+          "p": "computers_laptop_hdd_volume",
+          "v": "21",
+          "pu": "clhv"
+        },
+        {
+          "pl": "Время автономной работы",
+          "vl": "6-10 часов",
+          "p": "computers_laptop_battery_life",
+          "v": "20",
+          "pu": "clbl"
+        },
+        {
+          "pl": "Состояние",
+          "vl": "Б/у",
+          "p": "condition",
+          "v": "1",
+          "pu": "cnd"
+        },
+        {
+          "pl": "Товары с Куфар Доставкой",
+          "vl": "Да",
+          "p": "delivery_enabled",
+          "v": true,
+          "pu": "dle"
+        },
+        {
+          "pl": "Товары с Куфар Оплатой",
+          "vl": "Да",
+          "p": "safedeal_enabled",
+          "v": true,
+          "pu": "sde"
+        }
+      ],
+      "body": null,
+      "body_short": null,
+      "category": "16040",
+      "company_ad": false,
+      "currency": "BYR",
+      "feedback_info": null,
+      "images": [
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/e641ef0e-f66e-4e9e-b077-2738f0890f2e.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/bb6ed69a-fc4f-42dc-9195-e76627d8bce2.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/616dabc0-f248-468c-a962-f92fe6391058.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/60cd7bcc-cf9b-4bd4-9b09-ebe0c5828486.jpg",
+          "yams_storage": false
+        }
+      ],
+      "is_mine": false,
+      "list_id": 1064762520,
+      "list_time": "2026-04-25T12:36:06Z",
+      "message_id": "adid1064762520",
+      "paid_services": {
+        "halva": false,
+        "highlight": true,
+        "polepos": false,
+        "ribbons": null
+      },
+      "phone_hidden": false,
+      "price_byn": "97000",
+      "price_usd": "34414",
+      "remuneration_type": "1",
+      "show_parameters": {
+        "show_call": false,
+        "show_chat": false,
+        "show_import_link": false,
+        "show_web_shop_link": false
+      },
+      "subject": "Hp Gaming cx-0161ur",
+      "type": "sell"
+    },
+    {
+      "account_id": "OnXo0Nbm8t0VSKIx3LrXFGE",
+      "account_parameters": [
+        {
+          "pl": "УНП",
+          "vl": "",
+          "p": "vat_number",
+          "v": "192720188",
+          "pu": "vn"
+        },
+        {
+          "pl": "Имя",
+          "vl": "",
+          "p": "name",
+          "v": "ООО ЭплСтокБай",
+          "pu": "nme"
+        },
+        {
+          "pl": "Адрес торговой точки",
+          "vl": "",
+          "p": "shop_address",
+          "v": "проспект Независимости, 39, Минск",
+          "pu": "sa"
+        },
+        {
+          "pl": "Контактное лицо",
+          "vl": "",
+          "p": "contact_person",
+          "v": "Олег",
+          "pu": "cp"
+        },
+        {
+          "pl": "Юридический адрес/Адрес регистрации",
+          "vl": "",
+          "p": "company_address",
+          "v": "независимости 39",
+          "pu": "ca"
+        }
+      ],
+      "ad_id": 1066324650,
+      "ad_link": "https://www.kufar.by/item/1066324650",
+      "ad_parameters": [
+        {
+          "pl": "Подкатегория",
+          "vl": "Ноутбуки",
+          "p": "category",
+          "v": 16040,
+          "pu": "cat"
+        },
+        {
+          "pl": "Неакционная (полная) цена",
+          "vl": "",
+          "p": "regular_price",
+          "v": 95000,
+          "pu": "rprc"
+        },
+        {
+          "pl": "Регион",
+          "vl": "Минск",
+          "p": "region",
+          "v": 7,
+          "pu": "rgn"
+        },
+        {
+          "pl": "Город / Район",
+          "vl": "Советский",
+          "p": "area",
+          "v": "23",
+          "pu": "ar"
+        },
+        {
+          "pl": "Тип оплаты",
+          "vl": "Цена",
+          "p": "remuneration_type",
+          "v": "1",
+          "pu": "rtr"
+        },
+        {
+          "pl": "Матрица экрана",
+          "vl": "IPS",
+          "p": "computers_display_matrix_type",
+          "v": "21",
+          "pu": "cdmt"
+        },
+        {
+          "pl": "Производитель",
+          "vl": "Lenovo",
+          "p": "computers_laptop_brand",
+          "v": "16",
+          "pu": "clb"
+        },
+        {
+          "pl": "Диагональ экрана",
+          "vl": "14.0'' / 35.6 см",
+          "p": "computers_laptop_diagonal",
+          "v": "13",
+          "pu": "cld"
+        },
+        {
+          "pl": "Разрешение экрана",
+          "vl": "1920 х 1080",
+          "p": "computers_laptop_resolution",
+          "v": "8",
+          "pu": "clr"
+        },
+        {
+          "pl": "Операционная система",
+          "vl": "Windows 11",
+          "p": "computers_laptop_os",
+          "v": "12",
+          "pu": "clos"
+        },
+        {
+          "pl": "Процессор",
+          "vl": "Intel Core i5",
+          "p": "computers_laptop_processor",
+          "v": "3",
+          "pu": "clp"
+        },
+        {
+          "pl": "Оперативная память",
+          "vl": "8 Гб",
+          "p": "computer_equipment_laptops_ram",
+          "v": "25",
+          "pu": "celr"
+        },
+        {
+          "pl": "Тип оперативной памяти",
+          "vl": "DDR4",
+          "p": "computers_ram_type",
+          "v": "10",
+          "pu": "cmprt"
+        },
+        {
+          "pl": "Тип видеокарты",
+          "vl": "Встроенная",
+          "p": "computers_laptop_videocard",
+          "v": "1",
+          "pu": "clv"
+        },
+        {
+          "pl": "Тип накопителя",
+          "vl": "SSD",
+          "p": "computers_laptop_hdd_type",
+          "v": "13",
+          "pu": "clht"
+        },
+        {
+          "pl": "Ёмкость накопителя",
+          "vl": "256 ГБ",
+          "p": "computers_laptop_hdd_volume",
+          "v": "21",
+          "pu": "clhv"
+        },
+        {
+          "pl": "Время автономной работы",
+          "vl": "4-6 часов",
+          "p": "computers_laptop_battery_life",
+          "v": "15",
+          "pu": "clbl"
+        },
+        {
+          "pl": "Состояние",
+          "vl": "Б/у",
+          "p": "condition",
+          "v": "1",
+          "pu": "cnd"
+        },
+        {
+          "pl": "Гарантийный срок",
+          "vl": "",
+          "p": "shop_guarantee",
+          "v": "14 дней",
+          "pu": "sg"
+        },
+        {
+          "pl": "Доставка от продавца",
+          "vl": "Да",
+          "p": "delivery_pro",
+          "v": true,
+          "pu": "dlpr"
+        }
+      ],
+      "body": null,
+      "body_short": null,
+      "category": "16040",
+      "company_ad": true,
+      "currency": "BYR",
+      "feedback_info": null,
+      "images": [
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/9e85abd0-8270-4c61-87ec-93d27cb6aa80.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/33168689-4dd4-4340-a0fa-3f00ab528920.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/50294d0d-039d-4927-b854-c5f45ff40af3.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/520d4634-84d3-474c-824a-10f6c33b8be5.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/e3d5688b-f7ba-40d7-aed0-dc5e05497dc4.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/5ea0335c-7cb9-4337-998d-334255f0ddfe.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/121e0361-672f-4b47-807f-ab8f9bba7409.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/f4783221-8452-4ecb-970b-56caf63699f4.jpg",
+          "yams_storage": false
+        },
+        {
+          "id": "0000",
+          "media_storage": "rms",
+          "path": "adim1/1d591043-5245-4a5c-bb8f-1d3a1d72eb3a.jpg",
+          "yams_storage": false
+        }
+      ],
+      "is_mine": false,
+      "list_id": 1066324650,
+      "list_time": "2026-04-25T12:32:28Z",
+      "message_id": "adid1066324650",
+      "paid_services": {
+        "halva": false,
+        "highlight": false,
+        "polepos": false,
+        "ribbons": null
+      },
+      "phone_hidden": false,
+      "price_byn": "88000",
+      "price_usd": "31221",
+      "remuneration_type": "1",
+      "show_parameters": {
+        "show_call": false,
+        "show_chat": false,
+        "show_import_link": false,
+        "show_web_shop_link": false
+      },
+      "subject": "Ноутбук Lenovo ThinkPad L14 gen2, i5-1145G7, 8/256gb",
+      "type": "sell"
+    }
+  ],
+  "page_type": "search_page",
+  "pagination": {
+    "pages": [
+      {
+        "label": "self",
+        "num": 1,
+        "token": null
+      },
+      {
+        "label": "next",
+        "num": 2,
+        "token": "eyJ0IjoiYWJzIiwiZiI6dHJ1ZSwicCI6MiwicGl0IjoiMjk2MTg3MDUifQ=="
+      },
+      {
+        "label": "",
+        "num": 3,
+        "token": "eyJ0IjoiYWJzIiwiZiI6dHJ1ZSwicCI6MywicGl0IjoiMjk2MTg3MDUifQ=="
+      },
+      {
+        "label": "",
+        "num": 4,
+        "token": "eyJ0IjoiYWJzIiwiZiI6dHJ1ZSwicCI6NCwicGl0IjoiMjk2MTg3MDUifQ=="
+      },
+      {
+        "label": "",
+        "num": 5,
+        "token": "eyJ0IjoiYWJzIiwiZiI6dHJ1ZSwicCI6NSwicGl0IjoiMjk2MTg3MDUifQ=="
+      }
+    ]
+  },
+  "total": 11803
+}
